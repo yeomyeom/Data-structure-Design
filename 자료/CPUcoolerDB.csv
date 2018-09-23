@@ -1,0 +1,201 @@
+,,,CPU Cooler,가격,제조사,쿨러 종류,권장 케이스 폭,쿨러 높이,팬 커넥터,펌프 커넥터,팬 크기,팬 개수,팬 굵기,베어링,최소 회전속도,최대 회전속도,최소 풍량,최대 풍량,최소 풍압,최대 풍압,최소 소음,최대 소음,최소 펌프속도,최대 펌프속도,최소 펌프소음,최대 펌프소음,LGA 2066,LGA 1151,LGA 2011-v3,LGA 115x,LGA 2011,TR4,SP3,AM4,AMx/FMx,팬 색깔,(워터블록 색),본체 색깔,LED 색,발광부분,(워터블록 LED),보증 기간
+2,EXISTS,,추가하지 않음,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,EXISTS,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+4,,,== 공랭 쿨러 ==,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+5,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+6,,,-- 타워형 공랭 쿨러 --,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+7,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+8,타워형 공랭,,[Antec] C400 BLUE LED,\43320,Antec,타워형 공랭,,155mm,4핀,,120mm,1개,25T,Rifle,800rpm,1900rpm,,77CFM,,,20.3dBA,34.5dBA,,,,,,O,O,O,O,,,O,O,투명,,검정,파랑,팬,,3년
+9,타워형 공랭,, ,,,타워형 공랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+10,타워형 공랭,,[ARCTIC] FREEZER 33 eSPORTS EDITION RED,\69000,ARCTIC,타워형 공랭,180mm,150mm,4핀,,120mm,2개,26T,FDB,200rpm,1800rpm,,69CFM,,,,26dBA,,,,,O,O,O,O,O,,,O,,검정,,검정,,,,
+11,타워형 공랭,,[ARCTIC] FREEZER TR,\65000,ARCTIC,타워형 공랭,180mm,155mm,4핀,,120mm,1개,26T,FDB,200rpm,1800rpm,,69CFM,,,,26dBA,,,,,O,,O,,O,O,,O,,검정,,검정,,,,
+12,타워형 공랭,,[ARCTIC] Freezer i32 CO,\58000,ARCTIC,타워형 공랭,,150mm,4핀,,120mm,1개,25T,2볼,0rpm,1350rpm,,,,,,24.5dBA,,,,,,O,O,O,O,,,,,검정,,은색,,,,6년
+13,타워형 공랭,,[ARCTIC] Freezer i32,\50000,ARCTIC,타워형 공랭,,150mm,4핀,,120mm,1개,25T,유체,0rpm,1350rpm,,,,,,24.5dBA,,,,,,O,O,O,O,,,,,흰색,,은색,,,,6년
+14,타워형 공랭,, ,,,타워형 공랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+15,타워형 공랭,,[be quiet] Shadow Rock Slim 라이젠,\69000,be quiet,타워형 공랭,180mm,161mm,4핀,,135mm,1개,22T,Rifle,,1400rpm,,67.8CFM,,2.1mmH2O,,23.7dBA,,,,,O,O,O,O,O,,,O,O,검정,,은색,,,,3년
+16,타워형 공랭,,[be quiet] Shadow Rock 2 라이젠,\67000,be quiet,타워형 공랭,180mm,160mm,4핀,,120mm,1개,25T,Rifle,,1600rpm,,87CFM,,1.4mmH2O,,25.4dBA,,,,,O,,O,O,O,,,O,O,검정,,은색,,,,3년
+17,타워형 공랭,,[be quiet] DARK ROCK Pro 3 라이젠,\135000,be quiet,타워형 공랭,180mm,163mm,4핀,,135mm,2개,22T,FDB,,1400rpm,,67.8CFM,,2.1mmH2O,,26.1dBA,,,,,O,,O,O,O,,,O,O,검정,,검정,,,,3년
+18,타워형 공랭,,[be quiet] DARK ROCK 3 라이젠,\-,be quiet,타워형 공랭,180mm,160mm,4핀,,135mm,1개,22T,FDB,,1400rpm,,67.8CFM,,2.1mmH2O,,21.1dBA,,,,,O,,O,O,O,,,O,O,검정,,검정,,,,3년
+19,타워형 공랭,,[be quiet] Pure Rock,\52700,be quiet,타워형 공랭,,155mm,4핀,,120mm,1개,25T,Rifle,,1500rpm,,87CFM,,1.25mmH2O,,26.8dBA,,,,,,,O,O,O,,,,O,검정,,검정,,,,3년
+20,타워형 공랭,, ,,,타워형 공랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+21,타워형 공랭,,[BRAVOTEC] JONSBO CR-401 RGB 아우라 싱크,\-,BRAVOTEC,타워형 공랭,180mm,161mm,4핀,,120mm,1개,25T,Hydraulic,800rpm,1600rpm,20.5CFM,38.5CFM,,,,25dBA,,,,,,O,,O,,,,O,O,투명,,검정,RGB (MB),본체,,1년
+22,타워형 공랭,,[BRAVOTEC] JONSBO CR-601 RED,\28900,BRAVOTEC,타워형 공랭,180mm,158mm,4핀,,120mm,1개,25T,Hydraulic,800rpm,1500rpm,20.5CFM,38.5CFM,,,,24dBA,,,,,,O,,O,,,,O,O,투명,,검정,빨강,팬/본체,,1년
+23,타워형 공랭,,[BRAVOTEC] JONSBO CR-601 WHITE,\28900,BRAVOTEC,타워형 공랭,180mm,158mm,4핀,,120mm,1개,25T,Hydraulic,800rpm,1500rpm,20.5CFM,38.5CFM,,,,24dBA,,,,,,O,,O,,,,O,O,투명,,검정,흰색,팬/본체,,1년
+24,타워형 공랭,,[BRAVOTEC] JONSBO CR-601 RGB,\34900,BRAVOTEC,타워형 공랭,180mm,158mm,4핀,,120mm,1개,25T,Hydraulic,800rpm,1500rpm,20.5CFM,38.5CFM,,,,24dBA,,,,,,O,,O,,,,O,O,투명,,검정,RGB (자동),팬/본체,,1년
+25,타워형 공랭,,[BRAVOTEC] JONSBO CR-201 CE WHITE,\38900,BRAVOTEC,타워형 공랭,180mm,160mm,4핀,,120mm,1개,25T,Hydraulic,800rpm,1500rpm,20.5CFM,38.5CFM,,,,24dBA,,,,,,O,,O,,,,O,O,검정,,검정,흰색,팬/본체,,1년
+26,타워형 공랭,,[BRAVOTEC] JONSBO CR-201 CE RED,\38900,BRAVOTEC,타워형 공랭,180mm,160mm,4핀,,120mm,1개,25T,Hydraulic,800rpm,1500rpm,20.5CFM,38.5CFM,,,,24dBA,,,,,,O,,O,,,,O,O,검정,,검정,빨강,팬/본체,,1년
+27,타워형 공랭,, ,,,타워형 공랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+28,타워형 공랭,,[CRYORIG] H7 라이젠,\54030,CRYORIG,타워형 공랭,,145mm,4핀,,120mm,1개,25T,HPLN,330rpm,1600rpm,,49CFM,,1.65mmH2O,10dBA,25dBA,,,,,,O,,O,,,,O,O,흰색,,검정,,,,3년
+29,타워형 공랭,,[CRYORIG] R1 UNIVERSAL SE 라이젠,\114000,CRYORIG,타워형 공랭,180mm,168.3mm,4핀,,140mm,2개,25T,HPLN,700rpm,1300rpm,,76CFM,,,19dBA,23dBA,,,,,,,,,,,,O,O,검정,,검흰,,,,3년
+30,타워형 공랭,,[CRYORIG] H7 QUAD LUMI,\89000,CRYORIG,타워형 공랭,150mm,145mm,4핀,,120mm,1개,25T,HPLN,300rpm,1600rpm,,49CFM,,1.65mmH2O,10dBA,25dBA,,,,,,O,O,O,O,,,O,O,투명,,검정,흰색/RGB(SW),팬/본체,,3년
+31,타워형 공랭,, ,,,타워형 공랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+32,타워형 공랭,,[DEEPCOOL] GAMMAXX 300R LED BRAVOTEC,\24500,DEEPCOOL,타워형 공랭,150mm,135.5mm,4핀,,120mm,1개,25T,Hydro,900rpm,1600rpm,,40CFM,,,17.8dBA,21dBA,,,,,O,O,O,O,O,,,O,O,투명,,은색,빨강,팬,,1년
+33,타워형 공랭,,[DEEPCOOL] GAMMAXX GT RGB 아우라 싱크 BRAVOTEC,\58000,DEEPCOOL,타워형 공랭,180mm,156mm,4핀,,120mm,1개,25T,Hydro,500rpm,1500rpm,,56.5CFM,,,17.8dBA,27dBA,,,,,O,O,O,O,O,,,O,O,투명,,은색,RGB (MB),팬,,1년
+34,타워형 공랭,,[DEEPCOOL] NEPTWIN LED SNOW WHITE BRAVOTEC,\72700,DEEPCOOL,타워형 공랭,,159mm,4핀,,120mm,2개,26T,Hydro,900rpm,1500rpm,,139.5CFM,,,17.8dBA,30dBA,,,,,O,O,O,O,O,,,O,O,투명,,흰색,흰색,팬,,1년
+35,타워형 공랭,,[DEEPCOOL] GAMMAXX 400 SNOW WHITE For Intel BRAVOTEC,\38000,DEEPCOOL,타워형 공랭,,154.5mm,4핀,,120mm,1개,25T,Hydro,900rpm,1500rpm,,74.34CFM,,,17.8dBA,30dBA,,,,,O,O,O,O,O,,,O,O,투명,,흰색,흰색,팬,,1년
+36,타워형 공랭,, ,,,타워형 공랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+37,타워형 공랭,,[GIGABYTE] AORUS ATC700 RGB FUSION,\90000,GIGABYTE,타워형 공랭,180mm,170mm,4핀,,120mm,2개,25T,유체,500rpm,1800rpm,19.79CFM,71.27CFM,0.16mmH2O,2.09mmH2O,17.2dBA,33.6dBA,,,,,,O,O,O,O,,,O,O,검정,,검정,RGB (MB/SW),본체,,
+38,타워형 공랭,, ,,,타워형 공랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+39,타워형 공랭,,[ID-COOLING] SE-214-RGB,\38890,ID-COOLING,타워형 공랭,,,4핀,,130mm,1개,25T,Hydraulic,500rpm,1800rpm,,69.5CFM,,1.82mmH2O,12.1dBA,24.2dBA,,,,,O,O,,O,O,,,O,O,흰색,,검정,RGB (MB/Cont),팬,,
+40,타워형 공랭,,[ID-COOLING] SE-214M-WHITE,\28280,ID-COOLING,타워형 공랭,,,4핀,,120mm,1개,25T,,600rpm,1600rpm,,50CFM,,1.82mmH2O,16.2dBA,30.5dBA,,,,,,O,,O,,,,O,O,검정,,은색,흰색,링,,
+41,타워형 공랭,,[ID-COOLING] SE-214M-RED,\28280,ID-COOLING,타워형 공랭,,,4핀,,120mm,1개,25T,,600rpm,1600rpm,,50CFM,,1.82mmH2O,16.2dBA,30.5dBA,,,,,,O,,O,,,,O,O,검정,,은색,빨강,링,,
+42,타워형 공랭,,[ID-COOLING] SE-214M-BLUE,\28280,ID-COOLING,타워형 공랭,,,4핀,,120mm,1개,25T,,600rpm,1600rpm,,50CFM,,1.82mmH2O,16.2dBA,30.5dBA,,,,,,O,,O,,,,O,O,검정,,은색,파랑,링,,
+43,타워형 공랭,,[ID-COOLING] SE-207,\60300,ID-COOLING,타워형 공랭,180mm,159mm,4핀,,120mm,2개,25T,Hydraulic,700rpm,1800rpm,,74.5CFM,,2.15mmH2O,18dBA,35.2dBA,,,,,O,,O,O,O,,,O,O,흰색,,크롬,,,,
+44,타워형 공랭,,[ID-COOLING] SE-214L-WHITE 3RSYS,\31600,ID-COOLING,타워형 공랭,180mm,160mm,4핀,,130mm,1개,25T,유체,500rpm,1800rpm,,69.5CFM,,1.82mmH2O,12.1dBA,24.2dBA,,,,,,O,O,O,O,,,O,O,투명,,검정,흰색,팬,,
+45,타워형 공랭,,[ID-COOLING] SE-214L-SNOW 3RSYS,\36000,ID-COOLING,타워형 공랭,180mm,160mm,4핀,,130mm,1개,25T,유체,500rpm,1800rpm,,69.5CFM,,1.82mmH2O,12.1dBA,24.2dBA,,,,,,O,O,O,O,,,O,O,투명,,흰색,흰색,팬,,
+46,타워형 공랭,,[ID-COOLING] SE-214L-RED 3RSYS,\31600,ID-COOLING,타워형 공랭,180mm,160mm,4핀,,130mm,1개,25T,유체,500rpm,1800rpm,,69.5CFM,,1.82mmH2O,12.1dBA,24.2dBA,,,,,,O,O,O,O,,,O,O,투명,,검정,빨강,팬,,
+47,타워형 공랭,,[ID-COOLING] SE-204K-WHITE,\25760,ID-COOLING,타워형 공랭,180mm,157mm,4핀,,120mm,1개,25T,Hydraulic,700rpm,1500rpm,,62CFM,,,18dBA,26.4dBA,,,,,,O,O,O,O,,,,O,투명,,은색,흰색,팬,,
+48,타워형 공랭,,[ID-COOLING] SE-204K-RED,\25760,ID-COOLING,타워형 공랭,180mm,157mm,4핀,,120mm,1개,25T,Hydraulic,700rpm,1500rpm,,62CFM,,,18dBA,26.4dBA,,,,,,O,O,O,O,,,,O,투명,,은색,빨강,팬,,
+49,타워형 공랭,,[ID-COOLING] SE-204K-GREEN,\25760,ID-COOLING,타워형 공랭,180mm,157mm,4핀,,120mm,1개,25T,Hydraulic,700rpm,1500rpm,,62CFM,,,18dBA,26.4dBA,,,,,,O,O,O,O,,,,O,투명,,은색,녹색,팬,,
+50,타워형 공랭,,[ID-COOLING] SE-204K-BLUE,\25760,ID-COOLING,타워형 공랭,180mm,157mm,4핀,,120mm,1개,25T,Hydraulic,700rpm,1500rpm,,62CFM,,,18dBA,26.4dBA,,,,,,O,O,O,O,,,,O,투명,,은색,파랑,팬,,
+51,타워형 공랭,,[ID-COOLING] SE-204K-NO,\25760,ID-COOLING,타워형 공랭,180mm,157mm,4핀,,120mm,1개,25T,Hydraulic,700rpm,1500rpm,,62CFM,,,18dBA,26.4dBA,,,,,,O,O,O,O,,,,O,검정,,은색,,,,
+52,타워형 공랭,,[ID-COOLING] SE-214C-W for 라이젠,\30300,ID-COOLING,타워형 공랭,,159mm,4핀,,120mm,1개,25T,Hydraulic,600rpm,1600rpm,,50CFM,,1.82mmH2O,16.2dBA,30.5dBA,,,,,,O,O,O,O,,,O,O,검정,,검정,흰색,링,,
+53,타워형 공랭,,[ID-COOLING] SE-214C-R for 라이젠,\30300,ID-COOLING,타워형 공랭,,159mm,4핀,,120mm,1개,25T,Hydraulic,600rpm,1600rpm,,50CFM,,1.82mmH2O,16.2dBA,30.5dBA,,,,,,O,O,O,O,,,O,O,검정,,검정,빨강,링,,
+54,타워형 공랭,,[ID-COOLING] SE-214C-B for 라이젠,\30300,ID-COOLING,타워형 공랭,,159mm,4핀,,120mm,1개,25T,Hydraulic,600rpm,1600rpm,,50CFM,,1.82mmH2O,16.2dBA,30.5dBA,,,,,,O,O,O,O,,,O,O,검정,,검정,파랑,링,,
+55,타워형 공랭,, ,,,타워형 공랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+56,타워형 공랭,,[MSI] 코어프로져 XL,\-,MSI,타워형 공랭,180mm,170mm,4핀,,120mm,2개,25T,유체,500rpm,1800rpm,19.79CFM,71.27CFM,0.16mmH2O,2.09mmH2O,17.2dBA,33.6dBA,,,,,,O,O,O,O,,,O,O,검정,,검빨,RGB (MB/SW),본체,,
+57,타워형 공랭,, ,,,타워형 공랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+58,타워형 공랭,,[NOCTUA] NH-D15S + NM-AM4 킷,\120740,NOCTUA,타워형 공랭,,165mm,4핀,,140mm,1개,25T,SSO2,1200rpm,1500rpm,67.97CFM,82.51CFM,,,19.2dBA,24.6dBA,,,,,,O,O,O,O,,,,O,갈색,,은색,,,,
+59,타워형 공랭,,[NOCTUA] NH-D15,\119600,NOCTUA,타워형 공랭,,161mm,4핀,,140mm,2개,25T,SSO2,1200rpm,1500rpm,67.97CFM,82.51CFM,,,19.2dBA,24.6dBA,,,,,,,O,O,O,,,,O,갈색,,은색,,,,
+60,타워형 공랭,,[NOCTUA] NH-U14S,\100600,NOCTUA,타워형 공랭,,165mm,4핀,,140mm,1개,25T,SSO2,900rpm,1200rpm,52.2CFM,67.97CFM,0.89mmH2O,1.51mmH2O,13.8dBA,19.2dBA,,,,,,,,O,O,,,,O,갈색,,은색,,,,
+61,타워형 공랭,,[NOCTUA] NH-U12S + NM-AM4 UxS 킷,\91100,NOCTUA,타워형 공랭,,158mm,4핀,,120mm,1개,25T,SSO2,1200rpm,1500rpm,43.73CFM,54.97CFM,1.83mmH2O,2.61mmH2O,18.6dBA,22.4dBA,,,,,,O,,O,O,,,O,O,갈색,,은색,,,,
+62,타워형 공랭,,[NOCTUA] NH-U14S TR4-SP3,\106050,NOCTUA,타워형 공랭,,165mm,4핀,,140mm,1개,25T,SSO2,1200rpm,1500rpm,67.97CFM,82.51CFM,,,19.2dBA,24.6dBA,,,,,,,,,,O,O,,,갈색,,은색,,,,
+63,타워형 공랭,,[NOCTUA] NH-U12S TR4-SP3,\97970,NOCTUA,타워형 공랭,,158mm,4핀,,120mm,1개,25T,SSO2,1200rpm,1500rpm,43.73CFM,54.97CFM,,,18.6dBA,22.4dBA,,,,,,,,,,O,O,,,갈색,,은색,,,,
+64,타워형 공랭,, ,,,타워형 공랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+65,타워형 공랭,,[SCYTHE] FUMA Rev.B,\70000,SCYTHE,타워형 공랭,150mm,149mm,4핀,,120mm,2개,25T,슬리브,300rpm,1400rpm,5.6CFM,79CFM,0.01mmH2O,1.56mmH2O,13dBA,28dBA,,,,,O,O,O,O,O,,,O,O,검정,,은색,,,,2년
+66,타워형 공랭,,[SCYTHE] KOTETSU MARK II,\48150,SCYTHE,타워형 공랭,180mm,154mm,4핀,,120mm,1개,27T,FDB,300rpm,1200rpm,16.6CFM,51.17CFM,0.076mmH2O,1.05mmH2O,4dBA,24.9dBA,,,,,O,O,O,O,O,,,O,O,검정,,검정,,,,2년
+67,타워형 공랭,,[SCYTHE] MUGEN 5 대양케이스,\63000,SCYTHE,타워형 공랭,180mm,154.5mm,4핀,,120mm,1개,27T,FDB,300rpm,1200rpm,16.6CFM,51.17CFM,0.076mmH2O,1.05mmH2O,4dBA,24.9dBA,,,,,,O,O,O,O,,,O,O,검정,,은색,,,,1년
+68,타워형 공랭,,[SCYTHE] FUMA 대양케이스,\74040,SCYTHE,타워형 공랭,150mm,149mm,4핀,,120mm,2개,25T,슬리브,300rpm,1400rpm,5.6CFM,79CFM,0.01mmH2O,1.56mmH2O,13dBA,28dBA,,,,,,O,O,O,O,,,,O,검정,,은색,,,,1년
+69,타워형 공랭,,[SCYTHE] MUGEN MAX 대양케이스,\62000,SCYTHE,타워형 공랭,,161mm,4핀,,140mm,1개,25T,슬리브,500rpm,1300rpm,37.37CFM,97.18CFM,0.15mmH2O,1.02mmH2O,13dBA,30.7dBA,,,,,,O,O,O,O,,,,O,검정,,은색,,,,1년
+70,타워형 공랭,,[SCYTHE] Ninja 4 대양케이스,\60320,SCYTHE,타워형 공랭,,155mm,4핀,,120mm,1개,25T,슬리브,300rpm,1500rpm,12.93CFM,84.64CFM,0.07mmH2O,1.79mmH2O,4dBA,29.5dBA,,,,,,O,O,O,O,,,,O,검정,,은색,,,,1년
+71,타워형 공랭,, ,,,타워형 공랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+72,타워형 공랭,,[시스기어] JONSBO CR-201 ROG AURA SYNC Special Edition,\58000,시스기어,타워형 공랭,180mm,160mm,4핀,,120mm,1개,25T,2볼,600rpm,1600rpm,,,,,18dBA,26.1dBA,,,,,,O,,O,,,,O,O,검정,,검정,RGB (MB/Cont),링/본체,,
+73,타워형 공랭,, ,,,타워형 공랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+74,타워형 공랭,,[써모랩] TRINITY WHITE LED,\40200,써모랩,타워형 공랭,180mm,150mm,4핀,,130mm,1개,25T,EBR,600rpm,1200rpm,,,,,16dBA,24dBA,,,,,,O,O,O,O,,,O,O,흰색,,은색,흰색,팬,,
+75,타워형 공랭,,[써모랩] TRINITY S5.0,\38470,써모랩,타워형 공랭,180mm,150mm,4핀,,130mm,1개,25T,EBR,600rpm,1800rpm,,,,,16dBA,32dBA,,,,,,O,O,O,O,,,O,O,검정,,은색,,,,
+76,타워형 공랭,,[써모랩] TRINITY,\38200,써모랩,타워형 공랭,180mm,150mm,4핀,,130mm,1개,25T,EBR,600rpm,1800rpm,,,,,16dBA,32dBA,,,,,,O,O,O,O,,,,O,검정,,은색,,,,
+77,타워형 공랭,, ,,,타워형 공랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+78,타워형 공랭,,[쿨러마스터] MASTERAIR MA620P RGB 컨트롤러,\72530,쿨러마스터,타워형 공랭,180mm,164.5mm,4핀,,120mm,2개,25T,,600rpm,1800rpm,,53.4CFM,,1.65mmH2O,,31dBA,,,,,O,O,O,O,O,,,O,O,투명,,검정,RGB (MB/Cont),팬,,2년
+79,타워형 공랭,,[쿨러마스터] MASTERAIR MA610P RGB,\68170,쿨러마스터,타워형 공랭,180mm,166.5mm,4핀,,120mm,2개,25T,,650rpm,1800rpm,,53.38CFM,,1.65mmH2O,,35dBA,,,,,O,O,O,O,O,,,O,O,투명,,검정,RGB (MB),팬,,2년
+80,타워형 공랭,,[쿨러마스터] MASTERAIR MA410P RGB,\49000,쿨러마스터,타워형 공랭,180mm,158.5mm,4핀,,120mm,1개,25T,,650rpm,2000rpm,,66.7CFM,,2.34mmH2O,6dBA,30dBA,,,,,O,O,O,O,O,,,O,O,투명,,검정,RGB (MB),팬,,2년
+81,타워형 공랭,,[쿨러마스터] HYPER 212 LED Turbo RED,\38000,쿨러마스터,타워형 공랭,180mm,163mm,4핀,,120mm,2개,25T,RIfle,600rpm,1600rpm,,66.3CFM,,1.7mmH2O,9dBA,31dBA,,,,,,O,O,O,O,,,O,O,투명,,빨강,빨강,팬,,2년
+82,타워형 공랭,,[쿨러마스터] HYPER 212 LED Turbo BLACK,\37440,쿨러마스터,타워형 공랭,180mm,163mm,4핀,,120mm,2개,25T,Rifle,600rpm,1600rpm,,66.3CFM,,1.7mmH2O,9dBA,31dBA,,,,,,O,O,O,O,,,O,O,투명,,검정,빨강,팬,,2년
+83,타워형 공랭,,[쿨러마스터] HYPER 212 LED PLUS,\30590,쿨러마스터,타워형 공랭,180mm,160mm,4핀,,120mm,1개,25T,Rifle,600rpm,1600rpm,,66.3CFM,,1.7mmH2O,9dBA,31dBA,,,,,,O,O,O,O,,,O,O,투명,,은색,빨강,팬,,
+84,타워형 공랭,,[쿨러마스터] HYPER 212 LED,\29070,쿨러마스터,타워형 공랭,180mm,160mm,4핀,,120mm,1개,25T,Rifle,600rpm,1600rpm,,66.3CFM,,1.7mmH2O,9dBA,31dBA,,,,,,O,O,O,O,,,O,O,투명,,은색,빨강,팬,,
+85,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+86,,,-- 일반형(/슬림형) 공랭 쿨러 --,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+87,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+88,일반형 공랭,,[be quiet] DARK ROCK TF 라이젠,\-,be quiet,일반형 공랭,135mm,130.8mm,4핀,,135mm,2개,22T,FDB,,1400rpm,,67.8CFM,,1.85mmH2O,,26.7dBA,,,,,O,O,O,O,O,,,O,O,검정,,검정,,,,3년
+89,일반형 공랭,,[be quiet] SHADOW ROCK LP,\62500,be quiet,일반형 공랭,90mm,75.4mm,4핀,,120mm,1개,25T,Rifle,,1500rpm,,48.96CFM,,1.25mmH2O,,25.5dBA,,,,,,O,,O,O,,,,O,검정,,검정,,,,3년
+90,일반형 공랭,, ,,,일반형 공랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+91,일반형 공랭,,[BRAVOTEC] JONSBO CR-701 RGB,\35590,BRAVOTEC,일반형 공랭,90mm,75mm,4핀,,120mm,1개,25T,Hydraulic,800rpm,1500rpm,20.5CFM,38.5CFM,,,,29.2dBA,,,,,,O,,O,,,,O,,투명,,검정,RGB (Auto),팬/본체,,1년
+92,일반형 공랭,,[ID-COOLING] NEW IS-50,\32320,ID-COOLING,일반형 공랭,60mm,57mm,4핀,,120mm,1개,15T,Hydraulic,600rpm,1600rpm,,53.6CFM,,1.36mmH2O,13.8dBA,20.2dBA,,,,,,O,,O,,,,O,O,투명,,검정,,,,
+93,일반형 공랭,,[ID-COOLING] NEW IS-60,\38890,ID-COOLING,일반형 공랭,60mm,55mm,4핀,,120mm,1개,15T,Hydraulic,600rpm,1600rpm,,53.6CFM,,1.36mmH2O,13.8dBA,30.2dBA,,,,,,O,,O,,,,O,O,투명,,검정,,,,
+94,일반형 공랭,, ,,,일반형 공랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+95,일반형 공랭,,[NOCTUA] NH-L12 + NM-AM4 킷,\91000,NOCTUA,일반형 공랭,135mm,93mm,4핀,,120mm,2개,25T,SSO2,1200rpm,1500rpm,43.73CFM,54.97CFM,,,18.6dBA,22.4dBA,,,,,,O,O,O,O,,,,O,갈색,,살색,,,,
+96,일반형 공랭,,[NOCTUA] NH-L12S,\79700,NOCTUA,일반형 공랭,90mm,70mm,4핀,,120mm,1개,15T,SSO2,1400rpm,1850rpm,41.67CFM,55.44CFM,,,16.8dBA,23.9dBA,,,,,O,O,O,O,O,,,O,O,갈색,,살색,,,,
+97,일반형 공랭,,[NOCTUA] NH-C14S + NM-AM4 킷,\115900,NOCTUA,일반형 공랭,,115mm,4핀,,140mm,1개,25T,SSO2,1200rpm,1500rpm,67.97CFM,82.51CFM,1.51mmH2O,2.08mmH2O,19.2dBA,24.6dBA,,,,,,O,O,O,O,,,,O,갈색,,살색,,,,
+98,일반형 공랭,, ,,,일반형 공랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+99,일반형 공랭,,[쿨러마스터] MASTERAIR G100M UFO RGB 컨트롤러,\63720,쿨러마스터,일반형 공랭,90mm,74.5mm,4핀,,100mm,1개,25T,,600rpm,2400rpm,,22.63CFM,,1.6mmH2O,,30dBA,,,,,O,O,O,O,O,,,O,O,투명,,검정,RGB (MB/Cont), 팬,,2년
+100,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+101,,,== 수랭 쿨러 ==,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+102,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+103,,,-- 3열 수랭 쿨러 --,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+104,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+105,3열 수랭,,[Antec] MERCURY 360 NEWRUN,\162000,Antec,3열 수랭,,,4핀,3핀,120mm,3개,25T,,900rpm,1800rpm,,73.31CFM,,2.25mmH2O,20dBA,30dBA,,,,26dBA,O,O,O,O,O,,,O,O,투명,흰색,검흰,파랑,링,파랑/녹색/빨강,5년
+106,3열 수랭,, ,,,3열 수랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+107,3열 수랭,,[ARCTIC] Liquid Freezer 360,\196000,ARCTIC,3열 수랭,,,4핀,3핀,120mm,6개,25T,FDB,500rpm,1350rpm,,74CFM,,,,24.5dBA,,,,,O,O,O,O,O,O,,O,O,흰색,,검정,,,,2년
+108,3열 수랭,, ,,,3열 수랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+109,3열 수랭,,[CORSAIR] H115i PRO RGB,\-,CORSAIR,3열 수랭,,,4핀,3핀,140mm,2개,25T,Magnetic,,1200rpm,,55.4CFM,,1.27mmH2O,,20.4dBA,,,,,O,O,O,O,O,,,O,O,흰색,검정,검정,,,RGB (SW),5년
+110,3열 수랭,, ,,,3열 수랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+111,3열 수랭,,[DEEPCOOL] GAMER STORM CAPTAIN 360EX RGB WHITE BRAVOTEC,\173020,DEEPCOOL,3열 수랭,,,4핀,3핀,120mm,3개,25T,Hydro,500rpm,1800rpm,,229.56CFM,,3.31mmH2O,17.6dBA,31.3dBA,,2300rpm,,,O,O,O,O,O,,,O,O,검정,,흰색,,,RGB (MB),3년
+112,3열 수랭,,[DEEPCOOL] GAMER STORM CAPTAIN 360EX RGB BRAVOTEC,\183000,DEEPCOOL,3열 수랭,,,4핀,3핀,120mm,3개,25T,Hydro,500rpm,1800rpm,,229.56CFM,,3.31mmH2O,17.6dBA,31.3dBA,,2300rpm,,,O,O,O,O,O,,,O,O,검정,,검정,,,빨강,3년
+113,3열 수랭,, ,,,3열 수랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+114,3열 수랭,,[Fractal Design] Celsius S36,\-,Fractal Design,3열 수랭,,,4핀,4핀,120mm,3개,25T,LLS,500rpm,2000rpm,,87.6CFM,,2.3mmH2O,,32.2dBA,1950rpm,3150rpm,,20dBA,,O,O,O,O,,,O,O,흰색,검정,검정,,,,5년
+115,3열 수랭,, ,,,3열 수랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+116,3열 수랭,,[써멀테이크] 플로우 링 RGB 360 TT 프리미엄 에디션,\-,써멀테이크,3열 수랭,,,5핀,3핀,120mm,3개,25T,Hydraulic,500rpm,1400rpm,14.2CFM,42.34CFM,0.17mmH2O,1.54mmH2O,19.8dBA,24.7dBA,,3600rpm,,,O,O,O,O,O,,,O,O,검정,,검정,RGB (SW),팬/링,RGB (SW),
+117,3열 수랭,,[써멀테이크] Water 3.0 Riing RGB 360 아스크텍,\232000,써멀테이크,3열 수랭,,,5핀,3핀,120mm,3개,25T,Hydraulic,800rpm,1500rpm,22.14CFM,40.6CFM,0.57mmH2O,2.01mmH2O,18.5dBA,26.4dBA,,,,,O,O,O,O,O,,,O,O,검정,,검정,256C (Cont),링,,
+118,3열 수랭,,[써멀테이크] Water 3.0 Ultimate 아스크텍,\157590,써멀테이크,3열 수랭,,,4핀,3핀,120mm,3개,25T,Hydraulic,1000rpm,2000rpm,,99CFM,,,,20dBA,,2900rpm,,,O,O,O,O,O,,,O,O,흰색,,검정,,,,
+119,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+120,,,-- 2열 수랭 쿨러 --,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+121,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+122,2열 수랭,,[Antec] MERCURY 240 NEWRUN,\124720,Antec,2열 수랭,,,4핀,3핀,120mm,2개,25T,,900rpm,1800rpm,,73.31CFM,,2.25mmH2O,20dBA,30dBA,,,,26dBA,O,O,O,O,O,,,O,O,투명,흰색,검흰,파랑,링,파랑/녹색/빨강,5년
+123,2열 수랭,,[Antec] Kuhler H2O H1200 PRO,\109000,Antec,2열 수랭,,,4핀,3핀,120mm,2개,25T,,600rpm,1800rpm,,78.9CFM,,2.19mmH2O,16dBA,35dBA,,,,,,O,O,O,O,,,,O,투명,검정,검정,파랑,팬,파랑/녹색/빨강,
+124,2열 수랭,, ,,,2열 수랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+125,2열 수랭,,[ARCTIC] Liquid Freezer 240,\147730,ARCTIC,2열 수랭,,,4핀,3핀,120mm,4개,25T,FDB,500rpm,1350rpm,,74CFM,,,,24.5dBA,,,,,O,O,O,O,O,O,,O,O,흰색,,검정,,,,2년
+126,2열 수랭,, ,,,2열 수랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+127,2열 수랭,,[be quiet] SILENT LOOP 280mm,\234000,be quiet,2열 수랭,,,4핀,3핀,140mm,2개,25T,Rifle,,1600rpm,,94.2CFM,,1.82mmH2O,,37.3dBA,,,,,,O,O,O,O,,,O,O,검정,검정,검정,,,,3년
+128,2열 수랭,,[be quiet] SILENT LOOP 240mm,\214000,be quiet,2열 수랭,,,4핀,3핀,120mm,2개,25T,Rifle,,2000rpm,,65.51CFM,,2.23mmH2O,,36.9dBA,,,,,,O,O,O,O,,,O,O,검정,검정,검정,,,,3년
+129,2열 수랭,, ,,,2열 수랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+130,2열 수랭,,[COLORFUL] LUNA 240,\64900,COLORFUL,2열 수랭,,,4핀,3핀,120mm,2개,25T,Hydraulic,800rpm,1600rpm,,48.5CFM,,,,30.5dBA,,2800rpm,,25dBA,O,O,O,O,O,,,O,O,투명,검정,검정,파랑,링,파랑,3년
+131,2열 수랭,, ,,,2열 수랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+132,2열 수랭,,[CORSAIR] H150i PRO RGB,\-,CORSAIR,2열 수랭,,,4핀,3핀,120mm,3개,25T,Magnetic,,1600rpm,,47.3CFM,,1.78mmH2O,,25dBA,,,,,O,O,O,O,O,,,O,O,흰색,검정,검정,,,RGB (SW),5년
+133,2열 수랭,,[CORSAIR] HYDRO SERIES H115i v2,\191000,CORSAIR,2열 수랭,,,4핀,3핀,120mm,2개,25T,Hydraulic,,2435rpm,,70.69CFM,,4.65mmH2O,,37.7dBA,,,,,,O,O,O,O,,,,O,검정,,검정,,,RGB (SW),5년
+134,2열 수랭,,[CORSAIR] HYDRO SEIRES H115i,\206850,CORSAIR,2열 수랭,,,4핀,3핀,140mm,2개,25T,Hydraulic,,2000rpm,,104.65CFM,,3.42mmH2O,,45dBA,,,,,,O,O,O,O,,,,O,검정,,검정,,,RGB (SW),5년
+135,2열 수랭,,[CORSAIR] HYDRO SERIES H110i,\235000,CORSAIR,2열 수랭,,,4핀,3핀,140mm,2개,25T,Hydraulic,,2100rpm,,113CFM,,3.99mmH2O,,43dBA,,,,,,O,O,O,O,,,,O,검정,,검정,,,RGB (SW),5년
+136,2열 수랭,,[CORSAIR] HYDRO SERIES H110i GT,\-,CORSAIR,2열 수랭,,,4핀,3핀,140mm,2개,25T,Hydraulic,,2100rpm,,113CFM,,3.99mmH2O,,43dBA,,,,,,,O,O,O,,,,O,검정,,검정,,,RGB (SW),5년
+137,2열 수랭,,[CORSAIR] HYDRO SERIES H110i GTX,\-,CORSAIR,2열 수랭,,,4핀,3핀,120mm,2개,25T,Hydraulic,,2435rpm,,70.69CFM,,4.65mmH2O,,37.7dBA,,,,,,,O,O,O,,,,O,검정,,검정,,,RGB (SW),5년
+138,2열 수랭,,[CORSAIR] HYDRO SERIES H105,\205200,CORSAIR,2열 수랭,,,4핀,3핀,120mm,2개,25T,Hydraulic,800rpm,2700rpm,,73CFM,,3.9mmH2O,,37.7dBA,,,,,,,,O,O,,,,O,검정,,검정,,,,5년
+139,2열 수랭,, ,,,2열 수랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+140,2열 수랭,,[CRYORIG] A80,\183290,CRYORIG,2열 수랭,,,4핀,,140mm,3개,25T,HPLN,600rpm,1850rpm,,128CFM,,2.12mmH2O,13dBA,38dBA,,,,,,O,O,O,O,,,,O,흰색,,검정,,,,3년
+141,2열 수랭,,[CRYORIG] A40 ULTIMATE,\170000,CRYORIG,2열 수랭,,,4핀,,120mm,3개,25T,HPLN,600rpm,2200rpm,,83CFM,,3.33mmH2O,13dBA,37dBA,,,,,,O,O,O,O,,,,O,흰색,,검정,,,,3년
+142,2열 수랭,,[CRYORIG] A49,\156000,CRYORIG,2열 수랭,,,4핀,,120mm,3개,25T,HPLN,600rpm,2200rpm,,83CFM,,3.33mmH2O,13dBA,37dBA,,,,,,O,O,O,O,,,,O,흰색,,검정,,,,3년
+143,2열 수랭,, ,,,2열 수랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+144,2열 수랭,,[DEEPCOOL] GAMER STORM CAPTAIN 240EX RGB WHITE BRAVOTEC,\135200,DEEPCOOL,2열 수랭,,,4핀,3핀,120mm,2개,25T,Hydro,500rpm,1800rpm,,153.04CFM,,3.31mmH2O,17.6dBA,31.3dBA,,2100rpm,,,O,O,O,O,O,,,O,O,검정,,흰색,,,RGB (MB),3년
+145,2열 수랭,,[DEEPCOOL] GAMER STORM CAPTAIN 240EX RGB BRAVOTEC,\125990,DEEPCOOL,2열 수랭,,,4핀,3핀,120mm,2개,25T,Hydro,500rpm,1800rpm,,153.04CFM,,3.31mmH2O,17.6dBA,31.3dBA,,2100rpm,,,O,O,O,O,O,,,O,O,검정,,검정,,,RGB (MB),3년
+146,2열 수랭,,[DEEPCOOL] GAMER STORM CAPTAIN 240EX WHITE BRAVOTEC,\145000,DEEPCOOL,2열 수랭,,,4핀,3핀,120mm,2개,25T,Hydro,500rpm,1800rpm,,153.04CFM,,3.31mmH2O,17.6dBA,31.3dBA,,2200rpm,,,O,O,O,O,O,,,O,O,검정,,흰색,,,흰색,3년
+147,2열 수랭,,[DEEPCOOL] GAMER STORM CAPTAIN 240EX BRAVOTEC,\103900,DEEPCOOL,2열 수랭,,,4핀,3핀,120mm,2개,25T,Hydro,500rpm,1800rpm,,153.04CFM,,3.31mmH2O,17.6dBA,31.3dBA,,2200rpm,,,O,O,O,O,O,,,O,O,검정,,검정,,,빨강,3년
+148,2열 수랭,, ,,,2열 수랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+149,2열 수랭,,[EVGA] CLC 280 Liquid,\199000,EVGA,2열 수랭,,,4핀,9핀,140mm,2개,25T,Teflon Nano,600rpm,2200rpm,,113.5CFM,,4.2mmH2O,16dBA,39.5dBA,,,,20dBA,O,O,O,O,O,,,O,O,검정,검정,검정,,,RGB (SW),5년
+150,2열 수랭,,[EVGA] CLC 240 Liquid,\169000,EVGA,2열 수랭,,,4핀,9핀,120mm,2개,25T,Teflon Nano,500rpm,2400rpm,,74.82CFM,,4.04mmH2O,16dBA,39.9dBA,,,,20dBA,O,O,O,O,O,,,O,O,검정,검정,검정,,,RGB (SW),5년
+151,2열 수랭,, ,,,2열 수랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+152,2열 수랭,,[Fractal Design] Celsius S24,\175000,Fractal Design,2열 수랭,,,4핀,4핀,120mm,2개,25T,LLS,500rpm,2000rpm,,87.6CFM,,2.3mmH2O,,32.2dBA,1950rpm,3150rpm,,20dBA,,O,O,O,O,,,O,O,흰색,검정,검정,,,,5년
+153,2열 수랭,,[Fractal Design] Kelvin S24,\139180,Fractal Design,2열 수랭,,,4핀,4핀,120mm,2개,25T,LLS,500rpm,2000rpm,,87.6CFM,,2.3mmH2O,,32.2dBA,,2400rpm,,25dBA,,O,O,O,O,,,,O,흰색,검정,검정,,,,5년
+154,2열 수랭,, ,,,2열 수랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+155,2열 수랭,,[ID-COOLING] DASHFLOW 240 RGB,\174500,ID-COOLING,2열 수랭,,,4핀,3핀,120mm,2개,25T,Hydraulic,900rpm,2000rpm,,51.5CFM,,,16dBA,31.5dBA,,2400rpm,,25dBA,O,O,O,O,O,,,O,O,흰색,검정,검정,RGB (MB/Cont),팬,RGB (MB/Cont),
+156,2열 수랭,,[ID-COOLING] AURAFLOW 240 RGB SNOW,\150230,ID-COOLING,2열 수랭,,,4핀,3핀,120mm,2개,25T,Hydraulic,700rpm,1800rpm,,74.5CFM,,,18dBA,35.2dBA,,2300rpm,,25dBA,,O,O,O,O,,,O,O,흰색,흰색,흰색,RGB (MB),팬,RGB (MB),
+157,2열 수랭,,[ID-COOLING] FROSTFLOW PLUS 240 SNOW,\124000,ID-COOLING,2열 수랭,,,4핀,3핀,120mm,2개,25T,Hydraulic,700rpm,1800rpm,,74.5CFM,,2.15mmH2O,18dBA,35.2dBA,,2300rpm,,25dBA,,O,O,O,O,,,O,O,흰색,흰색,흰색,흰색,팬,흰색,
+158,2열 수랭,,[ID-COOLING] FROSTFLOW PLUS 280 3RSYS,\112200,ID-COOLING,2열 수랭,,,4핀,3핀,140mm,2개,25T,Hydraulic,800rpm,1600rpm,,76.8CFM,,2.14mmH2O,16.8dBA,32.6dBA,,2300rpm,,25dBA,,O,O,O,O,,,O,O,흰색,검정,검정,,,흰색,
+159,2열 수랭,,[ID-COOLING] FROSTFLOW PLUS 240 WHITE LED 3RSYS,\90700,ID-COOLING,2열 수랭,,,4핀,3핀,120mm,2개,25T,Hydraulic,700rpm,1800rpm,,74.5CFM,,2.15mmH2O,18dBA,35.2dBA,,2300rpm,,25dBA,,O,O,O,O,,,O,O,흰색,검정,검정,흰색,팬,흰색,
+160,2열 수랭,,[ID-COOLING] AURAFLOW 240 RGB BLACK 3RSYS,\149200,ID-COOLING,2열 수랭,,,4핀,3핀,120mm,2개,25T,Hydraulic,700rpm,1800rpm,,74.5CFM,,2.15mmH2O,18dBA,35.2dBA,,2100rpm,,25dBA,,O,O,O,O,,,O,O,투명,검정,검정,RGB (MB),팬,RGB (MB),
+161,2열 수랭,, ,,,2열 수랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+162,2열 수랭,,[NZXT] KRAKEN X62 BRAVOTEC,\222000,NZXT,2열 수랭,,,4핀,9핀,140mm,2개,26T,FDB,500rpm,1800rpm,27.27CFM,98.17CFM,0.21mmH2O,2.71mmH2O,21dBA,38dBA,1000rpm,2800rpm,,,O,O,O,O,O,O,,O,O,검정,검정,검정,,,RGB (SW),6년
+163,2열 수랭,,[NZXT] KRAKEN X52,\211000,NZXT,2열 수랭,,,4핀,9핀,120mm,2개,26T,FDB,500rpm,2000rpm,18.28CFM,73.11CFM,0.18mmH2O,2.93mmH2O,21dBA,36dBA,1000rpm,2800rpm,,,O,O,O,O,O,O,,O,O,검정,검정,검정,,,RGB (SW),6년
+164,2열 수랭,,[NZXT] KRAKEN X61,\174500,NZXT,2열 수랭,,,4핀,9핀,140mm,2개,25T,Nano,800rpm,2000rpm,42.4CFM,106.1CFM,0.36mmH2O,1.97mmH2O,20dBA,37dBA,2400rpm,3600rpm,,,,,,O,O,,,,O,흰색,검정,검정,,,RGB (SW),6년
+165,2열 수랭,, ,,,2열 수랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+166,2열 수랭,,[써멀테이크] 플로우 링 RGB 240 TT 프리미엄 에디션,\211810,써멀테이크,2열 수랭,,,5핀,3핀,120mm,2개,25T,Hydraulic,500rpm,1400rpm,14.2CFM,42.34CFM,0.17mmH2O,1.54mmH2O,19.8dBA,24.7dBA,,3600rpm,,,O,O,O,O,O,,,O,O,검정,,검정,RGB (SW),팬/링,RGB (SW),
+167,2열 수랭,,[써멀테이크] Water 3.0 Riing RGB 240 아스크텍,\170600,써멀테이크,2열 수랭,,,5핀,3핀,120mm,2개,25T,Hydraulic,800rpm,1500rpm,22.14CFM,40.6CFM,0.57mmH2O,2.01mmH2O,18.5dBA,26.4dBA,,,,,O,O,O,O,O,,,O,O,검정,,검정,256C (Cont),링,,
+168,2열 수랭,,[써멀테이크] Water 3.0 Extreme S 아스크텍,\131000,써멀테이크,2열 수랭,,,4핀,3핀,120mm,2개,25T,,1000rpm,2000rpm,,99CFM,,,,20dBA,,2900rpm,,,,,,O,O,,,,O,흰색,검정,검정,,,,
+169,2열 수랭,, ,,,2열 수랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+170,2열 수랭,,[쿨러마스터] MASTERLIQUID ML240L RGB,\144080,쿨러마스터,2열 수랭,,,4핀,3핀,120mm,2개,25T,,650rpm,2000rpm,,66.7CFM,,2.34mmH2O,6dBA,30dBA,,,,15dBA,O,O,O,O,O,,,O,O,투명,,검정,RGB (MB),팬,RGB (MB),3년
+171,2열 수랭,,[쿨러마스터] MASTERLIQUID PRO 240,\113780,쿨러마스터,2열 수랭,,,4핀,4핀,120mm,2개,25T,,650rpm,2000rpm,,66.7CFM,,2.34mmH2O,6dBA,30dBA,,,,12dBA,O,O,O,O,O,,,O,O,검정,,검정,,,파랑,
+172,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+173,,,-- 1열 수랭 쿨러 --,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+174,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+175,1열 수랭,,[Antec] MERCURY 120 NEWRUN,\79400,Antec,1열 수랭,,,4핀,3핀,120mm,1개,25T,,900rpm,1800rpm,,73.31CFM,,2.25mmH2O,20dBA,30dBA,,,,26dBA,O,O,O,O,O,,,O,O,투명,흰색,검흰,파랑,링,파랑/녹색/빨강,5년
+176,1열 수랭,,[Antec] Kuhler H2O H600 PRO,\68640,Antec,1열 수랭,,,4핀,3핀,120mm,1개,25T,,600rpm,1800rpm,,78.9CFM,,2.19mmH2O,16dBA,35dBA,,,,,,O,O,O,O,,,,O,투명,검정,검정,파랑,팬,파랑/녹색/빨강,
+177,1열 수랭,, ,,,1열 수랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+178,1열 수랭,,[ARCTIC] Liquid Freezer 120,\121800,ARCTIC,1열 수랭,,,4핀,3핀,120mm,2개,25T,FDB,500rpm,1350rpm,,74CFM,,,,24.5dBA,,,,,O,O,O,O,O,O,,O,O,흰색,,검정,,,,2년
+179,1열 수랭,, ,,,1열 수랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+180,1열 수랭,,[be quiet] SILENT LOOP 120mm,\180000,be quiet,1열 수랭,,,4핀,3핀,120mm,1개,25T,Rifle,,2000rpm,,65.51CFM,,2.23mmH2O,,36.9dBA,,,,,,O,O,O,O,,,O,O,검정,검정,검정,,,,3년
+181,1열 수랭,, ,,,1열 수랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+182,1열 수랭,,[COLORFUL] LUNA 120,\54000,COLORFUL,1열 수랭,,,4핀,3핀,120mm,1개,25T,Hydraulic,800rpm,1600rpm,,48.5CFM,,,,30.5dBA,,2800rpm,,25dBA,O,O,O,O,O,,,O,O,투명,검정,검정,파랑,링,파랑,3년
+183,1열 수랭,, ,,,1열 수랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+184,1열 수랭,,[CORSAIR] HYDRO SERIES H80i v2,\145750,CORSAIR,1열 수랭,,,4핀,3핀,120mm,2개,25T,Hydraulic,,2435rpm,,70.69CFM,,4.65mmH2O,,37.7dBA,,,,,,O,O,O,O,,,,O,검정,,검정,,,RGB (SW),5년
+185,1열 수랭,,[CORSAIR] HYDRO SERIES H80i GT,\150000,CORSAIR,1열 수랭,,,4핀,3핀,120mm,2개,25T,Hydraulic,,2435rpm,,70.69CFM,,4.65mmH2O,,37.7dBA,,,,,,,O,O,O,,,,O,검정,,검정,,,RGB (SW),5년
+186,1열 수랭,, ,,,1열 수랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+187,1열 수랭,,[DEEPCOOL] GAMER STORM CAPTAIN 120EX RGB BRAVOTEC,\91520,DEEPCOOL,1열 수랭,,,4핀,3핀,120mm,1개,25T,Hydro,500rpm,1800rpm,,76.52CFM,,3.31mmH2O,17.6dBA,31.3dBA,,2100rpm,,,O,O,O,O,O,,,O,O,검정,,검정,,,RGB (MB),3년
+188,1열 수랭,,[DEEPCOOL] GAMER STORM CAPTAIN 120EX WHITE BRAVOTEC,\78840,DEEPCOOL,1열 수랭,,,4핀,3핀,120mm,1개,25T,Hydro,500rpm,1800rpm,,76.52CFM,,3.31mmH2O,17.6dBA,31.3dBA,,2200rpm,,,O,O,O,O,O,,,O,O,검정,,흰색,,,흰색,3년
+189,1열 수랭,,[DEEPCOOL] GAMER STORM CAPTAIN 120EX BRAVOTEC,\78900,DEEPCOOL,1열 수랭,,,4핀,3핀,120mm,1개,25T,Hydro,500rpm,1800rpm,,76.52CFM,,3.31mmH2O,17.6dBA,31.3dBA,,2200rpm,,,O,O,O,O,O,,,O,O,검정,,검정,,,빨강,3년
+190,1열 수랭,,[DEEPCOOL] GAMER STORM CAPTAIN 120 WHITE BRAVOTEC,\97000,DEEPCOOL,1열 수랭,,,4핀,3핀,120mm,1개,25T,FDB,600rpm,2200rpm,,91.12CFM,,3.71mmH2O,17.6dBA,39.3dBA,,,,,O,O,O,O,O,,,,O,흰색,,흰색,,,흰색,3년
+191,1열 수랭,, ,,,1열 수랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+192,1열 수랭,,[EVGA] CLC 120 Liquid,\130000,EVGA,1열 수랭,,,4핀,9핀,120mm,1개,25T,Teflon Nano,500rpm,2400rpm,,74.82CFM,,4.04mmH2O,16dBA,39.9dBA,,,,20dBA,O,O,O,O,O,,,O,O,검정,검정,검정,,,RGB (SW),5년
+193,1열 수랭,, ,,,1열 수랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+194,1열 수랭,,[ID-COOLING] FROSTFLOW PLUS 120 SNOW,\79700,ID-COOLING,1열 수랭,,,4핀,3핀,120mm,1개,25T,Hydraulic,700rpm,1500rpm,,62CFM,,1.78mmH2O,18dBA,26.4dBA,,2300rpm,,25dBA,,O,O,O,O,,,O,O,흰색,흰색,흰색,흰색,팬,흰색,
+195,1열 수랭,,[ID-COOLING] FROSTFLOW PLUS 120 3RSYS,\55000,ID-COOLING,1열 수랭,,,4핀,3핀,120mm,1개,25T,Hydraulic,700rpm,1800rpm,,74.5CFM,,2.15mmH2O,18dBA,35.2dBA,,2300rpm,,25dBA,,O,O,O,O,,,O,O,흰색,검정,검정,,,흰색,
+196,1열 수랭,, ,,,1열 수랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+197,1열 수랭,,[써멀테이크] Water 3.0 Performer C 아스크텍,\66000,써멀테이크,1열 수랭,,,4핀,3핀,120mm,1개,25T,Hydraulic,1200rpm,2000rpm,,81.32CFM,,,,27.36dBA,,2900rpm,,,O,O,O,O,O,,,O,O,흰색,,검정,,,,
+198,1열 수랭,, ,,,1열 수랭,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+199,1열 수랭,,[쿨러마스터] MASTERLIQUID ML120L RGB,\94000,쿨러마스터,1열 수랭,,,4핀,3핀,120mm,1개,25T,,650rpm,2000rpm,,66.7CFM,,2.34mmH2O,6dBA,30dBA,,,,15dBA,O,O,O,O,O,,,O,O,투명,,검정,RGB (MB),팬,RGB (MB),3년
+200,1열 수랭,,[쿨러마스터] MASTERLIQUID PRO 120,\93880,쿨러마스터,1열 수랭,,,4핀,4핀,120mm,1개,25T,,650rpm,2000rpm,,66.7CFM,,2.34mmH2O,6dBA,30dBA,,,,12dBA,O,O,O,O,O,,,O,O,검정,,검정,,,파랑,
+201,,, ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
