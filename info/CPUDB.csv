@@ -1,0 +1,176 @@
+1,[Intel] 셀러론 G1840 (하스웰 리프레시) (벌크 + 쿨러),\55000,Celeron,Intel,2개,2개,2.8 Ghz,지원 안함 ,2MB,HD (Haswell),1050Mhz,1333Mhz,53W,LGA 1150,X,O,G1840
+2,[Intel] 셀러론 G1850 (하스웰 리프레시) (벌크 + 쿨러),\76000,Celeron,Intel,2개,2개,2.9 Ghz,지원 안함 ,2MB,HD (Haswell),1050Mhz,1333Mhz,53W,LGA 1150,X,O,G1850
+3,[Intel] 셀러론 G3900 (스카이레이크),\41500,Celeron,Intel,2개,2개,2.8 Ghz,지원 안함 ,2MB,HD 510,950Mhz,2133Mhz,51W,LGA 1151,O,O,G3900
+4,[Intel] 셀러론 G3920 (스카이레이크),\47150,Celeron,Intel,2개,2개,2.9 GHz,지원 안함 ,2MB,HD 510,950Mhz,2133Mhz,51W,LGA 1151,O,O,G3920
+5,[Intel] 셀러론 G3930 (카비레이크),\37900,Celeron,Intel,2개,2개,2.9 Ghz,지원 안함 ,2MB,HD 610,1050Mhz,2400Mhz,51W,LGA 1151,O,O,G3930
+6,[Intel] 셀러론 G3950 (카비레이크),\70960,Celeron,Intel,2개,2개,3 GHz,지원 안함 ,2MB,HD 610,1050Mhz,2400Mhz,51W,LGA 1151,O,O,G3950
+7,[Intel] 셀러론 G4900 (커피레이크),\44900,Celeron,Intel,2개,2개,3.1 GHz,지원 안함 ,2MB,UHD 610,1050Mhz,2400Mhz,54W,LGA 1151v2,O,O,G4900
+8,[Intel] 셀러론 G4920 (커피레이크),\55100,Celeron,Intel,2개,2개,3.2 GHz,지원 안함 ,2MB,UHD 610,1050Mhz,2400Mhz,54W,LGA 1151v2,O,O,G4920
+9,[Intel] 펜티엄 G3240 (하스웰 리프레시) (벌크),\76000,Pentium,Intel,2개,2개,3.1 GHz,지원 안함 ,3MB,HD (Haswell),1100Mhz,1333Mhz,53W,LGA 1150,X,X,G3240
+10,[Intel] 펜티엄 G3250 (하스웰 리프레시),\78660,Pentium,Intel,2개,2개,3.2 GHz,지원 안함 ,3MB,HD (Haswell),1100Mhz,1333Mhz,53W,LGA 1150,O,O,G3250
+11,[Intel] 펜티엄 G3258 (하스웰) (벌크 + 쿨러),\93000,Pentium,Intel,2개,2개,3.2 GHz,지원 안함 ,3MB,HD (Haswell),1100Mhz,1333Mhz,53W,LGA 1150,X,O,G3258
+12,[Intel] 펜티엄 G3260 (하스웰 리프레시),\76400,Pentium,Intel,2개,2개,3.3 Ghz,지원 안함 ,3MB,HD (Haswell),1100Mhz,1333Mhz,53W,LGA 1150,O,O,G3260
+13,[Intel] 펜티엄 G3450 (하스웰 리프레시),\158230,Pentium,Intel,2개,2개,3.4 GHz,지원 안함 ,3MB,HD (Haswell),1100Mhz,1600Mhz,53W,LGA 1150,O,O,G3450
+14,[Intel] 펜티엄 G3460 (하스웰 리프레시) (벌크),\200420,Pentium,Intel,2개,2개,3.5 GHz,지원 안함 ,3MB,HD (Haswell),1100Mhz,1600Mhz,53W,LGA 1150,X,X,G3460
+15,[Intel] 펜티엄 G3470 (하스웰 리프레시) (벌크),\106850,Pentium,Intel,2개,2개,3.6 GHz,지원 안함 ,3MB,HD (Haswell),1100Mhz,1600Mhz,53W,LGA 1150,X,X,G3470
+16,[Intel] 펜티엄 G4400 (스카이레이크),\55700,Pentium,Intel,2개,2개,3.3 Ghz,지원 안함 ,3MB,HD 510,1000Mhz,2133Mhz,54W,LGA 1151,O,O,G4400
+17,[Intel] 펜티엄 G4500 (스카이레이크),\89840,Pentium,Intel,2개,2개,3.5 GHz,지원 안함 ,3MB,HD 530,1050Mhz,2133Mhz,51W,LGA 1151,O,O,G4500
+18,[Intel] 펜티엄 G4520 (스카이레이크) (벌크 + 쿨러),\121160,Pentium,Intel,2개,2개,3.6 GHz,지원 안함 ,3MB,HD 530,1050Mhz,2133Mhz,51W,LGA 1151,X,O,G4520
+19,[Intel] 펜티엄 G4560 (카비레이크),\72000,Pentium,Intel,2개,4개,3.5 GHz,지원 안함 ,3MB,HD 610,1050Mhz,2400Mhz,54W,LGA 1151,O,O,G4560
+20,[Intel] 펜티엄 G4600 (카비레이크),\70400,Pentium,Intel,2개,4개,3.6 Ghz,지원 안함 ,3MB,HD 630,1100Mhz,2400Mhz,51W,LGA 1151,O,O,G4600
+21,[Intel] 펜티엄 G4620 (카비레이크),\129360,Pentium,Intel,2개,4개,3.7 Ghz,지원 안함 ,3MB,HD 630,1100Mhz,2400Mhz,51W,LGA 1151,O,O,G4620
+22,[Intel] 펜티엄 골드 G5400 (커피레이크),\69200,Pentium Gold,Intel,2개,4개,3.7 Ghz,지원 안함 ,4MB,UHD 610,1050Mhz,2400Mhz,54W,LGA 1151v2,O,O,G5400
+23,[Intel] 펜티엄 골드 G5500 (커피레이크),\86900,Pentium Gold,Intel,2개,4개,3.8 Ghz,지원 안함 ,4MB,UHD 630 (i3),1100Mhz,2400Mhz,54W,LGA 1151v2,O,O,G5500
+24,[Intel] 펜티엄 골드 G5600 (커피레이크),\98800,Pentium Gold,Intel,2개,4개,3.9 Ghz,지원 안함 ,4MB,UHD 630 (i3),1100Mhz,2400Mhz,54W,LGA 1151v2,O,O,G5600
+25,[Intel] i3-4130 (하스웰) (벌크 + 쿨러),\120000,Core i3,Intel,2개,4개,3.4 Ghz,지원 안함 ,3MB,HD 4400,1150Mhz,1600Mhz,54W,LGA 1150,X,O,i3-4130
+26,[Intel] i3-4150 (하스웰 리프레시) (벌크),\123130,Core i3,Intel,2개,4개,3.5 Ghz,지원 안함 ,3MB,HD 4400,1150Mhz,1600Mhz,54W,LGA 1150,X,X,i3-4150
+27,[Intel] i3-4160 (하스웰 리프레시) (벌크 + 쿨러),\120000,Core i3,Intel,2개,4개,3.6 Ghz,지원 안함 ,3MB,HD 4400,1150Mhz,1600Mhz,54W,LGA 1150,X,X,i3-4160
+28,[Intel] i3-4170 (하스웰 리프레시) (벌크 + 쿨러),\112560,Core i3,Intel,2개,4개,3.7 Ghz,지원 안함 ,3MB,HD 4400,1150Mhz,1600Mhz,54W,LGA 1150,X,O,i3-4170
+29,[Intel] i3-4330 (하스웰) (벌크),\154000,Core i3,Intel,2개,4개,3.5 Ghz,지원 안함 ,4MB,HD 4600,1150Mhz,1600Mhz,54W,LGA 1150,X,X,i3-4330
+30,[Intel] i3-4360 (하스웰 리프레시) (벌크),\200000,Core i3,Intel,2개,4개,3.7 Ghz,지원 안함 ,4MB,HD 4600,1150Mhz,1600Mhz,54W,LGA 1150,X,X,i3-4360
+31,[Intel] i3-4370 (하스웰 리프레시) (벌크),\207680,Core i3,Intel,2개,4개,3.8 Ghz,지원 안함 ,4MB,HD 4600,1150Mhz,1600Mhz,54W,LGA 1150,X,X,i3-4370
+32,[Intel] i3-6100 (스카이레이크),\124900,Core i3,Intel,2개,4개,3.7 Ghz,지원 안함 ,3MB,HD 530,1050Mhz,2133Mhz,51W,LGA 1151,O,O,i3-6100
+33,[Intel] i3-6300 (스카이레이크),\191910,Core i3,Intel,2개,4개,3.8 Ghz,지원 안함 ,4MB,HD 530,1150Mhz,2133Mhz,51W,LGA 1151,O,O,i3-6300
+34,[Intel] i3-6320 (스카이레이크),\187010,Core i3,Intel,2개,4개,3.9 Ghz,지원 안함 ,4MB,HD 530,1150Mhz,2133Mhz,51W,LGA 1151,O,O,i3-6320
+35,[Intel] i3-7100 (카비레이크),\115200,Core i3,Intel,2개,4개,3.9 Ghz,지원 안함 ,3MB,HD 630,1100Mhz,2400Mhz,51W,LGA 1151,O,O,i3-7100
+36,[Intel] i3-7300 (카비레이크),\162000,Core i3,Intel,2개,4개,4 Ghz,지원 안함 ,4MB,HD 630,1150Mhz,2400Mhz,51W,LGA 1151,O,O,i3-7300
+37,[Intel] i3-7320 (카비레이크),\165400,Core i3,Intel,2개,4개,4.1 Ghz,지원 안함 ,4MB,HD 630,1150Mhz,2400Mhz,51W,LGA 1151,O,O,i3-7320
+38,[Intel] i3-7350K (카비레이크),\155700,Core i3,Intel,2개,4개,4.2 Ghz,지원 안함 ,4MB,HD 630,1150Mhz,2400Mhz,60W,LGA 1151,O,X,i3-7350K
+39,[Intel] i3-8100 (커피레이크),\125000,Core i3,Intel,4개,4개,3.6 Ghz,지원 안함 ,6MB,UHD 630 (i3),1100Mhz,2400Mhz,65W,LGA 1151v2,O,O,i3-8100
+40,[Intel] i3-8300 (커피레이크),\156600,Core i3,Intel,4개,4개,3.7 Ghz,지원 안함 ,8MB,UHD 630 (i3),1150Mhz,2400Mhz,65W,LGA 1151v2,O,O,i3-8300
+41,[Intel] i3-8350K (커피레이크),\193300,Core i3,Intel,4개,4개,4 Ghz,지원 안함 ,8MB,UHD 630 (i3),1150Mhz,2400Mhz,95W,LGA 1151v2,O,X,i3-8350K
+42,[Intel] i5-4440 (하스웰) (벌크),\189190,Core i5,Intel,4개,4개,3.1 Ghz,3.3 Ghz,6MB,HD 4600,1100Mhz,1600Mhz,84W,LGA 1150,X,X,i5-4440
+43,[Intel] i5-4460 (하스웰 리프레시) (벌크 +쿨러),\177780,Core i5,Intel,4개,4개,3.2 Ghz,3.4 Ghz,6MB,HD 4600,1100Mhz,1600Mhz,84W,LGA 1150,X,O,i5-4460
+44,[Intel] i5-4570 (하스웰) (벌크),\160310,Core i5,Intel,4개,4개,3.2 Ghz,3.6 Ghz,6MB,HD 4600,1150Mhz,1600Mhz,84W,LGA 1150,X,X,i5-4570
+45,[Intel] i5-4590 (하스웰 리프레시) (벌크 +쿨러),\188500,Core i5,Intel,4개,4개,3.3 Ghz,3.7 Ghz,6MB,HD 4600,1150Mhz,1600Mhz,84W,LGA 1150,X,O,i5-4590
+46,[Intel] i5-4670 (하스웰) (벌크 + 쿨러),\174440,Core i5,Intel,4개,4개,3.4 Ghz,3.8 Ghz,6MB,HD 4600,1200Mhz,1600Mhz,84W,LGA 1150,X,O,i5-4670
+47,[Intel] i5-4670K (하스웰) (벌크 + 쿨러),\291200,Core i5,Intel,4개,4개,3.4 Ghz,3.8 Ghz,6MB,HD 4600,1200Mhz,1600Mhz,84W,LGA 1150,X,O,i5-4670K
+48,[Intel] i5-4690 (하스웰 리프레시) (벌크 + 쿨러),\170350,Core i5,Intel,4개,4개,3.5 GHz,3.9 GHz,6MB,HD 4600,1200Mhz,1600Mhz,84W,LGA 1150,X,O,i5-4690
+49,[Intel] i5-4690K (데빌스캐년) (벌크),\329880,Core i5,Intel,4개,4개,3.5 Ghz,3.9 Ghz,6MB,HD 4600,1200Mhz,1600Mhz,88W,LGA 1150,X,X,i5-4690K
+50,[Intel] i5-6400 (스카이레이크),\201900,Core i5,Intel,4개,4개,2.7 Ghz,3.3 Ghz,6MB,HD 530,950Mhz,2133Mhz,65W,LGA 1151,O,O,i5-6400
+51,[Intel] i5-6500 (스카이레이크),\223900,Core i5,Intel,4개,4개,3.2 Ghz,3.6 Ghz,6MB,HD 530,1050Mhz,2133Mhz,65W,LGA 1151,O,O,i5-6500
+52,[Intel] i5-6600 (스카이레이크),\243200,Core i5,Intel,4개,4개,3.3 Ghz,3.9 Ghz,6MB,HD 530,1150Mhz,2133Mhz,65W,LGA 1151,O,O,i5-6600
+53,[Intel] i5-6600K (스카이레이크),\262500,Core i5,Intel,4개,4개,3.5 GHz,3.9 GHz,6MB,HD 530,1150Mhz,2133Mhz,91W,LGA 1151,O,X,i5-6600K
+54,[Intel] i5-7400 (카비레이크),\194800,Core i5,Intel,4개,4개,3 Ghz,3.5 Ghz,6MB,HD 630,1000Mhz,2400Mhz,65W,LGA 1151,O,O,i5-7400
+55,[Intel] i5-7500 (카비레이크),\206200,Core i5,Intel,4개,4개,3.4 Ghz,3.8 Ghz,6MB,HD 630,1100Mhz,2400Mhz,65W,LGA 1151,O,O,i5-7500
+56,[Intel] i5-7600 (카비레이크),\233700,Core i5,Intel,4개,4개,3.5 Ghz,4.1 Ghz,6MB,HD 630,1150Mhz,2400Mhz,65W,LGA 1151,O,O,i5-7600
+57,[Intel] i5-7600K (카비레이크),\288400,Core i5,Intel,4개,4개,3.8 Ghz,4.2 Ghz,6MB,HD 630,1150Mhz,2400Mhz,91W,LGA 1151,O,X,i5-7600K
+58,[Intel] i5-7640X (카비레이크-X),\184100,Core i5,Intel,4개,4개,4 Ghz,4.2 Ghz,6MB,N/A,N/A,2400Mhz,112W,LGA 2066,O,X,i5-7640X
+59,[Intel] i5-8400 (커피레이크),\219900,Core i5,Intel,6개,6개,2.8 Ghz,4 Ghz,9MB,UHD 630,1050Mhz,2666Mhz,65W,LGA 1151v2,O,O,i5-8400
+60,[Intel] i5-8400 (커피레이크)(벌크),\206000,Core i5,Intel,6개,6개,2.8 Ghz,4 Ghz,9MB,UHD 630,1050Mhz,2666Mhz,65W,LGA 1151v2,X,X,i5-8400
+61,[Intel] i5-8400 (커피레이크)(벌크+쿨러),\210000,Core i5,Intel,6개,6개,2.8 Ghz,4 Ghz,9MB,UHD 630,1050Mhz,2666Mhz,65W,LGA 1151v2,X,O,i5-8400
+62,[Intel] i5-8500 (커피레이크),\235000,Core i5,Intel,6개,6개,3 Ghz,4.1 Ghz,9MB,UHD 630,1100Mhz,2666Mhz,65W,LGA 1151v2,O,O,i5-8500
+63,[Intel] i5-8500 (커피레이크)(벌크),\224000,Core i5,Intel,6개,6개,3 Ghz,4.1 Ghz,9MB,UHD 630,1100Mhz,2666Mhz,65W,LGA 1151v2,X,X,i5-8500
+64,[Intel] i5-8500 (커피레이크)(벌크+쿨러),\227900,Core i5,Intel,6개,6개,3 Ghz,4.1 Ghz,9MB,UHD 630,1100Mhz,2666Mhz,65W,LGA 1151v2,X,O,i5-8500
+65,[Intel] i5-8600 (커피레이크),\240000,Core i5,Intel,6개,6개,3.1 Ghz,4.3 Ghz,9MB,UHD 630,1150Mhz,2666Mhz,65W,LGA 1151v2,O,O,i5-8600
+66,[Intel] i5-8600 (커피레이크)(벌크),\240000,Core i5,Intel,6개,6개,3.1 Ghz,4.3 Ghz,9MB,UHD 630,1150Mhz,2666Mhz,65W,LGA 1151v2,X,X,i5-8600
+67,[Intel] i5-8600 (커피레이크)(벌크+쿨러),\239000,Core i5,Intel,6개,6개,3.1 Ghz,4.3 Ghz,9MB,UHD 630,1150Mhz,2666Mhz,65W,LGA 1151v2,X,O,i5-8600
+68,[Intel] i5-8600K (커피레이크),\277000,Core i5,Intel,6개,6개,3.6 Ghz,4.3 Ghz,9MB,UHD 630,1150Mhz,2666Mhz,95W,LGA 1151v2,O,X,i5-8600K
+69,[Intel] i5-8600K (커피레이크)(벌크),\261300,Core i5,Intel,6개,6개,3.6 Ghz,4.3 Ghz,9MB,UHD 630,1150Mhz,2666Mhz,95W,LGA 1151v2,X,X,i5-8600K
+70,[Intel] i5-8600K (커피레이크)(벌크+쿨러),\264700,Core i5,Intel,6개,6개,3.6 Ghz,4.3 Ghz,9MB,UHD 630,1150Mhz,2666Mhz,95W,LGA 1151v2,X,O,i5-8600K
+71,[Intel] i7-4770 (하스웰) (벌크 + 쿨러),\340000,Core i7,Intel,4개,8개,3.4 Ghz,3.9 Ghz,8MB,HD 4600,1200Mhz,1600Mhz,84W,LGA 1150,X,O,i7-4770
+72,[Intel] i7-4770K (하스웰) (벌크),\369740,Core i7,Intel,4개,8개,3.5 Ghz,3.9 Ghz,8MB,HD 4600,1250Mhz,1600Mhz,84W,LGA 1150,X,X,i7-4770K
+73,[Intel] i7-4790 (하스웰 리프레시),\403140,Core i7,Intel,4개,8개,3.6 Ghz,4 Ghz,8MB,HD 4600,1200Mhz,1600Mhz,84W,LGA 1150,O,O,i7-4790
+74,[Intel] i7-4790 (하스웰 리프레시) (벌크 + 쿨러),\319400,Core i7,Intel,4개,8개,3.6 Ghz,4 Ghz,8MB,HD 4600,1200Mhz,1600Mhz,84W,LGA 1150,X,O,i7-4790
+75,[Intel] i7-4790K (데빌스캐년) (벌크),\514220,Core i7,Intel,4개,8개,4 Ghz,4.4 Ghz,8MB,HD 4600,1250Mhz,1600Mhz,88W,LGA 1150,X,X,i7-4790K
+76,[Intel] i7-5820K (하스웰-E),\460000,Core i7,Intel,6개,12개,3.3 GHz,3.6 GHz,15MB,N/A,N/A,2133Mhz,140W,LGA 2011-v3,O,X,i7-5820K
+77,[Intel] i7-5930K (하스웰-E),\460000,Core i7,Intel,6개,12개,3.5 GHz,3.7 GHz,15MB,N/A,N/A,2133Mhz,140W,LGA 2011-v3,O,X,i7-5930K
+78,[Intel] i7-5960X (하스웰-E),\1250000,Core i7,Intel,8개,16개,3 GHz,3.5 GHz,20MB,N/A,N/A,2133Mhz,140W,LGA 2011-v3,O,X,i7-5960X
+79,[Intel] i7-6800K (브로드웰-E),\502000,Core i7,Intel,6개,12개,3.4 Ghz,3.8 Ghz,15MB,N/A,N/A,2400Mhz,140W,LGA 2011-v3,O,X,i7-6800K
+80,[Intel] i7-6850K (브로드웰-E),\640240,Core i7,Intel,6개,12개,3.6 Ghz,3.8 Ghz,15MB,N/A,N/A,2400Mhz,140W,LGA 2011-v3,O,X,i7-6850K
+81,[Intel] i7-6900K (브로드웰-E),\1255480,Core i7,Intel,8개,16개,3.2 GHz,3.7 GHz,20MB,N/A,N/A,2400Mhz,140W,LGA 2011-v3,O,X,i7-6900K
+82,[Intel] i7-6950X (브로드웰-E),\2168060,Core i7,Intel,10개,20개,3 Ghz,3.5 Ghz,25MB,N/A,N/A,2400Mhz,140W,LGA 2011-v3,O,X,i7-6950X
+83,[Intel] i7-6700 (스카이레이크),\349700,Core i7,Intel,4개,8개,3.4 Ghz,4 Ghz,8MB,HD 530,1150Mhz,2133Mhz,65W,LGA 1151,O,O,i7-6700
+84,[Intel] i7-6700K (스카이레이크),\330000,Core i7,Intel,4개,8개,4 Ghz,4.2 Ghz,8MB,HD 530,1150Mhz,2133Mhz,91W,LGA 1151,O,X,i7-6700K
+85,[Intel] i7-7700 (카비레이크),\315800,Core i7,Intel,4개,8개,3.6 Ghz,4.2 Ghz,8MB,HD 630,1150Mhz,2400Mhz,65W,LGA 1151,O,O,i7-7700
+86,[Intel] i7-7700K (카비레이크),\337400,Core i7,Intel,4개,8개,4.2 Ghz,4.5 Ghz,8MB,HD 630,1150Mhz,2400Mhz,91W,LGA 1151,O,X,i7-7700K
+87,[Intel] i7-7740X (카비레이크-X),\467450,Core i7,Intel,4개,8개,4.3 Ghz,4.5 Ghz,8MB,N/A,N/A,2400Mhz,112W,LGA 2066,O,X,i7-7740X
+88,[Intel] i7-7800X (스카이레이크-X),\392000,Core i7,Intel,6개,12개,3.5 Ghz,4 Ghz,8.25MB,N/A,N/A,2400Mhz,140W,LGA 2066,O,X,i7-7800X
+89,[Intel] i7-7820X (스카이레이크-X),\627600,Core i7,Intel,8개,16개,3.6 Ghz,4.5 Ghz,11MB,N/A,N/A,2666Mhz,140W,LGA 2066,O,X,i7-7820X
+90,[Intel] i9-7900X (스카이레이크-X),\1134000,Core i9,Intel,10개,20개,3.3 Ghz,4.3 Ghz,13.75MB,N/A,N/A,2666Mhz,140W,LGA 2066,O,X,i9-7900X
+91,[Intel] i9-7920X (스카이레이크-X),\1253520,Core i9,Intel,12개,24개,2.9 GHz,4.3 GHz,16.5MB,N/A,N/A,2666Mhz,140W,LGA 2066,O,X,i9-7920X
+92,[Intel] i9-7940X (스카이레이크-X),\1468000,Core i9,Intel,14개,28개,3.1 GHz,4.3 GHz,19.25MB,N/A,N/A,2666Mhz,165W,LGA 2066,O,X,i9-7940X
+93,[Intel] i9-7960X (스카이레이크-X),\1777000,Core i9,Intel,16개,32개,2.8 GHz,4.2 GHz,22MB,N/A,N/A,2666Mhz,165W,LGA 2066,O,X,i9-7960X
+94,[Intel] i9-7980XE (스카이레이크-X),\2180130,Core i9,Intel,18개,36개,2.6 GHz,4.2 GHz,24.75MB,N/A,N/A,2666Mhz,165W,LGA 2066,O,X,i9-7980XE
+95,[Intel] i7-8700 (커피레이크),\379900,Core i7,Intel,6개,12개,3.2 Ghz,4.6 Ghz,12MB,UHD 630,1200Mhz,2666Mhz,65W,LGA 1151v2,O,O,i7-8700
+96,[Intel] i7-8700 (커피레이크)(벌크),\360000,Core i7,Intel,6개,12개,3.2 Ghz,4.6 Ghz,12MB,UHD 630,1200Mhz,2666Mhz,65W,LGA 1151v2,X,X,i7-8700
+97,[Intel] i7-8700 (커피레이크)(벌크+쿨러),\365000,Core i7,Intel,6개,12개,3.2 Ghz,4.6 Ghz,12MB,UHD 630,1200Mhz,2666Mhz,65W,LGA 1151v2,X,O,i7-8700
+98,[Intel] i7-8700K (커피레이크),\395000,Core i7,Intel,6개,12개,3.7 Ghz,4.7 Ghz,12MB,UHD 630,1200Mhz,2666Mhz,95W,LGA 1151v2,O,X,i7-8700K
+99,[Intel] i7-8700K (커피레이크)(벌크),\385000,Core i7,Intel,6개,12개,3.7 Ghz,4.7 Ghz,12MB,UHD 630,1200Mhz,2666Mhz,95W,LGA 1151v2,X,X,i7-8700K
+100,[Intel] i7-8700K (커피레이크)(벌크+쿨러),\393000,Core i7,Intel,6개,12개,3.7 Ghz,4.7 Ghz,12MB,UHD 630,1200Mhz,2666Mhz,95W,LGA 1151v2,X,O,i7-8700K
+101,[Intel] i7-8086K (커피레이크),\489500,Core i7,Intel,6개,12개,4 Ghz,5 Ghz,12MB,UHD 630,1200Mhz,2666Mhz,95W,LGA 1151v2,O,X,i7-8086K
+102,[Intel] E3-1220 v3 (하스웰),\511350,Xeon,Intel,4개,4개,3.1 GHz,3.5 GHz,8MB,N/A,N/A,1600Mhz,80W,LGA 1150,O,O,E3-1220 v3
+103,[Intel] E3-1225 v3 (하스웰),\511350,Xeon,Intel,4개,4개,3.2 GHz,3.6 GHz,8MB,HD P4600,1200Mhz,1600Mhz,84W,LGA 1150,O,O,E3-1225 v3
+104,[Intel] E3-1226 v3 (하스웰 리프레시),\289670,Xeon,Intel,4개,4개,3.3 Ghz,3.7 Ghz,8MB,HD P4600,1200Mhz,1600Mhz,84W,LGA 1150,O,O,E3-1226 v3
+105,[Intel] E3-1230 v3 (하스웰),\511350,Xeon,Intel,4개,8개,3.3 GHz,3.7 GHz,8MB,N/A,N/A,1600Mhz,80W,LGA 1150,O,O,E3-1230 v3
+106,[Intel] E3-1231 v3 (하스웰 리프레시),\291000,Xeon,Intel,4개,8개,3.4 Ghz,3.8 Ghz,8MB,N/A,N/A,1600Mhz,80W,LGA 1150,O,O,E3-1231 v3
+107,[Intel] E3-1240 v3 (하스웰),\511350,Xeon,Intel,4개,8개,3.4 GHz,3.8 GHz,8MB,N/A,N/A,1600Mhz,80W,LGA 1150,O,O,E3-1240 v3
+108,[Intel] E3-1241 v3 (하스웰 리프레시),\367690,Xeon,Intel,4개,8개,3.5 Ghz,3.9 Ghz,8MB,N/A,N/A,1600Mhz,80W,LGA 1150,O,O,E3-1241 v3
+109,[Intel] E3-1245 v3 (하스웰),\1022710,Xeon,Intel,4개,8개,3.4 GHz,3.8 GHz,8MB,HD P4600,1200Mhz,1600Mhz,84W,LGA 1150,O,O,E3-1245 v3
+110,[Intel] E3-1246 v3 (하스웰 리프레시),\370190,Xeon,Intel,4개,8개,3.5 Ghz,3.9 Ghz,8MB,HD P4600,1200Mhz,1600Mhz,84W,LGA 1150,O,O,E3-1246 v3
+111,[Intel] E3-1270 v3 (하스웰),\487930,Xeon,Intel,4개,8개,3.5 GHz,3.9 GHz,8MB,N/A,N/A,1600Mhz,80W,LGA 1150,O,O,E3-1270 v3
+112,[Intel] E3-1271 v3 (하스웰 리프레시),\437790,Xeon,Intel,4개,8개,3.6 Ghz,4 Ghz,8MB,N/A,N/A,1600Mhz,80W,LGA 1150,O,O,E3-1271 v3
+113,[Intel] E3-1275 v3 (하스웰),\1022710,Xeon,Intel,4개,8개,3.5 GHz,3.9 GHz,8MB,HD P4600,1250Mhz,1600Mhz,84W,LGA 1150,O,O,E3-1275 v3
+114,[Intel] E3-1276 v3 (하스웰 리프레시),\1022710,Xeon,Intel,4개,8개,3.6 Ghz,4 Ghz,8MB,HD P4600,1250Mhz,1600Mhz,82W,LGA 1150,O,O,E3-1276 v3
+115,[Intel] E3-1220 v5 (스카이레이크),\253000,Xeon,Intel,4개,4개,3 GHz,3.5 GHz,8MB,N/A,N/A,2133Mhz,80W,LGA 1151,O,X,E3-1220 v5
+116,[Intel] E3-1225 v5 (스카이레이크),\269720,Xeon,Intel,4개,4개,3.3 GHz,3.7 GHz,8MB,HD P530,1150Mhz,2133Mhz,80W,LGA 1151,O,X,E3-1225 v5
+117,[Intel] E3-1230 v5 (스카이레이크),\311620,Xeon,Intel,4개,8개,3.4 GHz,3.8 GHz,8MB,N/A,N/A,2133Mhz,80W,LGA 1151,O,X,E3-1230 v5
+118,[Intel] E3-1240 v5 (스카이레이크),\343550,Xeon,Intel,4개,8개,3.5 GHz,3.9 GHz,8MB,N/A,N/A,2133Mhz,80W,LGA 1151,O,X,E3-1240 v5
+119,[Intel] E3-1245 v5 (스카이레이크),\365130,Xeon,Intel,4개,8개,3.5 GHz,3.9 GHz,8MB,HD P530,1150Mhz,2133Mhz,80W,LGA 1151,O,X,E3-1245 v5
+120,[Intel] E3-1270 v5 (스카이레이크),\419200,Xeon,Intel,4개,8개,3.6 GHz,4 GHz,8MB,N/A,N/A,2133Mhz,80W,LGA 1151,O,X,E3-1270 v5
+121,[Intel] E3-1275 v5 (스카이레이크),\418840,Xeon,Intel,4개,8개,3.6 GHz,4 GHz,8MB,HD P530,1150Mhz,2133Mhz,80W,LGA 1151,O,X,E3-1275 v5
+122,[Intel] E3-1220 v6 (카비레이크),\254390,Xeon,Intel,4개,4개,3 GHz,3.5 GHz,8MB,N/A,N/A,2400Mhz,72W,LGA 1151,O,O,E3-1220 v6
+123,[Intel] E3-1225 v6 (카비레이크),\279000,Xeon,Intel,4개,4개,3.3 GHz,3.7 GHz,8MB,HD P630,1150Mhz,2400Mhz,73W,LGA 1151,O,O,E3-1225 v6
+124,[Intel] E3-1230 v6 (카비레이크),\323280,Xeon,Intel,4개,8개,3.5 GHz,3.9 GHz,8MB,N/A,N/A,2400Mhz,72W,LGA 1151,O,O,E3-1230 v6
+125,[Intel] E3-1240 v6 (카비레이크),\333800,Xeon,Intel,4개,8개,3.7 GHz,4.1 GHz,8MB,N/A,N/A,2400Mhz,72W,LGA 1151,O,O,E3-1240 v6
+126,[Intel] E3-1245 v6 (카비레이크),\367140,Xeon,Intel,4개,8개,3.7 GHz,4.1 GHz,8MB,HD P630,1150Mhz,2400Mhz,73W,LGA 1151,O,O,E3-1245 v6
+127,[Intel] E3-1270 v6 (카비레이크),\422030,Xeon,Intel,4개,8개,3.8 GHz,4.2 GHz,8MB,N/A,N/A,2400Mhz,72W,LGA 1151,O,O,E3-1270 v6
+128,[Intel] E3-1275 v6 (카비레이크),\430000,Xeon,Intel,4개,8개,3.8 GHz,4.2 GHz,8MB,HD P630,1150Mhz,2400Mhz,73W,LGA 1151,O,O,E3-1275 v6
+129,[Intel] E3-1280 v6 (카비레이크),\796530,Xeon,Intel,4개,8개,3.9 GHz,4.2 GHz,8MB,N/A,N/A,2400Mhz,72W,LGA 1151,O,O,E3-1280 v6
+130,[AMD] R5 2400G (레이븐 릿지),\127900,Ryzen 5,AMD,4개,8개,3.6 GHz,3.9 GHz,4MB,RX Vega 11,1250Mhz,2933Mhz,65W,PGA AM4,O,O,R5 2400G
+131,[AMD] R3 2200G (레이븐 릿지),\72500,Ryzen 3,AMD,4개,4개,3.5 GHz,3.7 GHz,4MB,Vega 8,1100Mhz,2933Mhz,65W,PGA AM4,O,O,R3 2200G
+132,[AMD] A12 9800 (브리스톨 릿지) (멀티팩),\101690,APU,AMD,4개,4개,3.8 GHz,4.2 GHz,0MB,R7 (Bristol Ridge 8CUs),1108Mhz,2400Mhz,65W,PGA AM4,O,O,A12-9800
+133,[AMD] A10 9700 (브리스톨 릿지) (멀티팩),\80300,APU,AMD,4개,4개,3.5 GHz,3.8 GHz,0MB,R7 (Bristol Ridge 6CUs),1029Mhz,2400Mhz,65W,PGA AM4,O,O,A10-9700
+134,[AMD] A8 9600 (브리스톨 릿지) (멀티팩),\75450,APU,AMD,4개,4개,3.1 GHz,3.4 GHz,0MB,R7 (Bristol Ridge 6CUs),900Mhz,2400Mhz,65W,PGA AM4,O,O,A8-9600
+135,[AMD] 애슬론 X4 845 (카리조),\80500,Athlon,AMD,4개,4개,3.5 GHz,3.8 GHz,0MB,N/A,N/A,2133Mhz,65W,PGA FM2+,O,O,X4 845
+136,[AMD] A10 7890K (고다바리),\218450,APU,AMD,4개,4개,4.1 GHz,4.3 GHz,0MB,R7 (Kaveri 8CUs),866Mhz,2133Mhz,95W,PGA FM2+,O,O,A10-7890K
+137,[AMD] A10 7870K (고다바리),\138100,APU,AMD,4개,4개,3.9 Ghz,4.1 Ghz,0MB,R7 (Kaveri 8CUs),866Mhz,2133Mhz,95W,PGA FM2+,O,O,A10-7870K
+138,[AMD] A10 7860K (고다바리),\180810,APU,AMD,4개,4개,3.6 GHz,4 GHz,0MB,R7 (Kaveri 8CUs),757Mhz,2133Mhz,65W,PGA FM2+,O,O,A10-7860K
+139,[AMD] A8 7670K (고다바리),\107600,APU,AMD,4개,4개,3.5 Ghz,3.9 Ghz,0MB,R7 (Kaveri 6CUs),757Mhz,2133Mhz,95W,PGA FM2+,O,O,A8-7670K
+140,[AMD] A6 7400K (고다바리),\90020,APU,AMD,2개,2개,3.5 Ghz,3.9 Ghz,0MB,R5 (Kaveri),756Mhz,1866Mhz,65W,PGA FM2+,O,O,A6-7400K
+141,[AMD] A10 7850K (카베리),\214940,APU,AMD,4개,4개,3.7 GHz,4 GHz,0MB,R7 (Kaveri 8CUs),720Mhz,2133Mhz,95W,PGA FM2+,O,O,A10-7850K
+142,[AMD] A10 7800 (카베리),\173280,APU,AMD,4개,4개,3.5 GHz,3.9 GHz,0MB,R7 (Kaveri 8CUs),720Mhz,2133Mhz,65W,PGA FM2+,O,O,A10-7800
+143,[AMD] A10 7700K (카베리),\178170,APU,AMD,4개,4개,3.6 GHz,3.9 GHz,0MB,R7 (Kaveri 6CUs),720Mhz,2133Mhz,95W,PGA FM2+,O,O,A10-7700K
+144,[AMD] A8 7600 (카베리),\74300,APU,AMD,4개,4개,3.1 Ghz,3.8 Ghz,0MB,R7 (Kaveri 6CUs),720Mhz,2133Mhz,65W,PGA FM2+,O,O,A8-7600
+145,[AMD] A8 7650K (카베리),\108880,APU,AMD,4개,4개,3.4 Ghz,3.8 Ghz,0MB,R7 (Kaveri 6CUs),720Mhz,2133Mhz,95W,PGA FM2+,O,O,A8-7650K
+146,[AMD] 애슬론 X4 860K (카베리),\76400,Athlon,AMD,4개,4개,3.7 GHz,4 GHz,0MB,N/A,N/A,1866Mhz,95W,PGA FM2+,O,O,X4 860K
+147,[AMD] FX 4300 (비쉐라) (멀티팩),\125700,FX,AMD,4개,4개,3.8 GHz,4 GHz,4MB,N/A,N/A,1866Mhz,95W,PGA AM3+,O,O,FX-4300
+148,[AMD] FX 6300 (비쉐라) (멀티팩),\137530,FX,AMD,6개,6개,3.5 GHz,4.1 GHz,8MB,N/A,N/A,1866Mhz,95W,PGA AM3+,O,O,FX-6300
+149,[AMD] FX 6300 (비쉐라),\139070,FX,AMD,6개,6개,3.5 GHz,4.1 GHz,8MB,N/A,N/A,1866Mhz,95W,PGA AM3+,O,X,FX-6300
+150,[AMD] FX 8300 (비쉐라) (멀티팩),\85700,FX,AMD,8개,8개,3.3 Ghz,4.2 Ghz,8MB,N/A,N/A,1866Mhz,95W,PGA AM3+,O,O,FX-8300
+151,[AMD] FX 8300 (비쉐라),\155300,FX,AMD,8개,8개,3.3 GHz,4.2 GHz,8MB,N/A,N/A,1866Mhz,95W,PGA AM3+,O,X,FX-8300
+152,[AMD] FX 8320 (비쉐라),\193230,FX,AMD,8개,8개,3.5 GHz,4 GHz,8MB,N/A,N/A,1866Mhz,125W,PGA AM3+,O,X,FX-8320
+153,[AMD] FX 8320E (비쉐라),\177900,FX,AMD,8개,8개,3.2 GHz,4 GHz,8MB,N/A,N/A,1866Mhz,95W,PGA AM3+,O,X,FX-8320E
+154,[AMD] FX 8350 (비쉐라) (멀티팩),\221400,FX,AMD,8개,8개,4 GHz,4.2 GHz,8MB,N/A,N/A,1866Mhz,125W,PGA AM3+,O,O,FX-8350
+155,[AMD] FX 8350 (비쉐라),\327900,FX,AMD,8개,8개,4 GHz,4.2 GHz,8MB,N/A,N/A,1866Mhz,125W,PGA AM3+,O,X,FX-8350
+156,[AMD] TR 1950X (서밋 릿지),\985700,ThreadRipper,AMD,16개,32개,3.4 Ghz,4 Ghz,32MB,N/A,N/A,2666Mhz,180W,LGA TR4,O,X,TR 1950X
+157,[AMD] TR 1920X (서밋 릿지),\838500,ThreadRipper,AMD,12개,24개,3.5 Ghz,4 Ghz,32MB,N/A,N/A,2666Mhz,180W,LGA TR4,O,X,TR 1920X
+158,[AMD] TR 1900X (서밋 릿지),\435150,ThreadRipper,AMD,8개,16개,3.8 Ghz,4 Ghz,16MB,N/A,N/A,2666Mhz,180W,LGA TR4,O,X,TR 1900X
+159,[AMD] R7 1800X (서밋 릿지) (멀티팩),\463900,Ryzen 7,AMD,8개,16개,3.6 Ghz,4 Ghz,16MB,N/A,N/A,2666Mhz,95W,PGA AM4,O,O,R7 1800X
+160,[AMD] R7 1800X (서밋 릿지),\448500,Ryzen 7,AMD,8개,16개,3.6 Ghz,4 Ghz,16MB,N/A,N/A,2666Mhz,95W,PGA AM4,O,X,R7 1800X
+161,[AMD] R7 1700X (서밋 릿지) (멀티팩),\353200,Ryzen 7,AMD,8개,16개,3.4 Ghz,3.8 Ghz,16MB,N/A,N/A,2666Mhz,95W,PGA AM4,O,O,R7 1700X
+162,[AMD] R7 1700X (서밋 릿지),\337000,Ryzen 7,AMD,8개,16개,3.4 Ghz,3.8 Ghz,16MB,N/A,N/A,2666Mhz,95W,PGA AM4,O,X,R7 1700X
+163,[AMD] R7 1700 (서밋 릿지),\260900,Ryzen 7,AMD,8개,16개,3 Ghz,3.7 Ghz,16MB,N/A,N/A,2666Mhz,65W,PGA AM4,O,O,R7 1700
+164,[AMD] R5 1600X (서밋 릿지) (멀티팩),\245300,Ryzen 5,AMD,6개,12개,3.6 Ghz,4 Ghz,16MB,N/A,N/A,2666Mhz,95W,PGA AM4,O,O,R5 1600X
+165,[AMD] R5 1600 (서밋 릿지),\161400,Ryzen 5,AMD,6개,12개,3.2 Ghz,3.6 Ghz,16MB,N/A,N/A,2666Mhz,65W,PGA AM4,O,O,R5 1600
+166,[AMD] R5 1500X (서밋 릿지),\137800,Ryzen 5,AMD,4개,8개,3.5 Ghz,3.7 Ghz,16MB,N/A,N/A,2666Mhz,65W,PGA AM4,O,O,R5 1500X
+167,[AMD] R5 1400 (서밋 릿지),\126800,Ryzen 5,AMD,4개,8개,3.2 Ghz,3.4 Ghz,8MB,N/A,N/A,2666Mhz,65W,PGA AM4,O,O,R5 1400
+168,[AMD] R3 1300X (서밋 릿지),\98000,Ryzen 3,AMD,4개,4개,3.5 Ghz,3.7 Ghz,8MB,N/A,N/A,2666Mhz,65W,PGA AM4,O,O,R3 1300X
+169,[AMD] R3 1200 (서밋 릿지),\102500,Ryzen 3,AMD,4개,4개,3.1 Ghz,3.4 Ghz,8MB,N/A,N/A,2666Mhz,65W,PGA AM4,O,O,R3 1200
+170,[AMD] R7 2700X (피나클 릿지),\316700,Ryzen 7,AMD,8개,16개,3.7 Ghz,4.3 Ghz,16Mb,N/A,N/A,2933Mhz,105W,PGA AM4,O,O,R7 2700X
+171,[AMD] R7 2700 (피나클 릿지),\274600,Ryzen 7,AMD,8개,16개,3.2 Ghz,4.1 Ghz,16Mb,N/A,N/A,2933Mhz,65W,PGA AM4,O,O,R7 2700
+172,[AMD] R5 2600X (피나클 릿지),\209800,Ryzen 5,AMD,6개,12개,3.6 Ghz,4.2 Ghz,16Mb,N/A,N/A,2933Mhz,95W,PGA AM4,O,O,R5 2600X
+173,[AMD] R5 2600 (피나클 릿지),\179600,Ryzen 5,AMD,6개,12개,3.4 Ghz,3.9 Ghz,16Mb,N/A,N/A,2933Mhz,65W,PGA AM4,O,O,R5 2600
+0,CPU 품목,가격,제품군,제조사,코어 수,쓰레드 수,동작속도,터보속도,L3캐시,내장 그래픽,GPU속도,"최대 지원
+메모리",TDP,소켓,정품,"기본쿨러포함",모델
+,,,,,,,,,,,,,,,,,
