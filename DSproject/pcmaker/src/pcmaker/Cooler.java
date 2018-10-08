@@ -1,8 +1,7 @@
 package pcmaker;
 
-public class Cooler extends pc_parts{
+public class Cooler extends pc_parts{//CASE에서 쿨링 위주 일때만 사용
 
-	double as;//as기간
-	double air_vol;//풍량
+	double air;//풍량
 	double noisy;//소음
 }
