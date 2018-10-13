@@ -1,0 +1,84 @@
+맞추고 싶은 PC 성능을 고르시오 : 
+1. 배틀그라운드
+2. CS GO
+3. 문명 6
+4. 레보식
+5. 효도컴
+기타. 커스텀
+1
+price now GPU: 239000.0
+GPU================
+GPU 가격 239000.0
+GPU 정격파워(W) 400.0
+GPU 이름 [Colorful] IGAME 지포스 GTX1060 VULCAN U D5 3GB
+GPU================
+price now CPU: 400400.0
+CPU================
+CPU 이름 [AMD] R5 1600 (서밋 릿지)
+CPU 가격 161400.0
+CPU 소비전력 65.0
+CPU 오버클럭 여부 (Yes =1 No =0)1
+CPU 소켓버전 PGA AM4
+CPU================
+price now MB: 478400.0
+MB================
+MB 이름 [MSI] B350M PRO-VD PLUS
+MB 가격 78000.0
+MB 소켓 PGA AM4
+MB 메모리 슬롯 갯수 2
+MB 램 지원 클럭 3200.0
+MB 램 지원 버전(DDR4=4 DDR3=3) 4
+MB 전원부(페이즈) 6.0
+MB 칩셋 m-ATX
+MB================
+price now ram: 648700.0
+RAM================
+RAM 이름 [삼성] DDR4 16G PC4-21300
+RAM 가격 170300.0
+RAM 용량 16.0
+RAM 갯수1
+RAM 클락(MHz) 2666.0
+RAM 버전(DDR4=4, DDR3=3) 4
+RAM================
+price now ssd: 743100.0
+SSD================
+SSD 이름 [삼성] 860 EVO 250GB
+SSD 가격 94400.0
+SSD 용량 250.0
+SSD 읽기속도(MB/s) 550.0
+SSD 쓰기속도(MB/s) 520.0
+SDD AS기간 5.0
+SSD================
+price now hdd: 832000.0
+HDD================
+HDD 이름 [Toshiba] 3TB
+HDD 가격 88900.0
+HDD 용량 3.0
+HDD 디스크 속도(rpm) 7200.0
+HDD================
+CPU 65.0 GPU 400.0
+price now psu: 881100.0
+PSU================
+PSU 이름 [마이크로닉스] Classic II 600W +12V Single Rail 85+
+PSU 가격 49100.0
+PSU 정격용량 600.0
+PSU AS기간 6.0
+PSU================
+price now case: 890920.0
+CASE================
+case를 cooling 우선으로 선택하였습니다.
+case 이름 [대양케이스] RAY
+case 가격 9820.0
+case 가로170.0
+case 세로350.0
+case 높이355.0
+CASE================
+price now cooler: 896580.0
+Cooler================
+case를 cooling 우선으로 선택하였습니다.
+cooler 이름 [ID-COOLING] NO-12025-SD
+cooler 가격 5660.0
+cooler 소음(dBA) 27.5
+cooler 풍량 60.0
+Cooler================
+총 가격 : 896580.0
