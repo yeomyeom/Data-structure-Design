@@ -62,7 +62,7 @@ public class Main {
 			input.cpu = 1000;
 			input.gpu = 0;
 			input.ram_vol = 4;
-			input.cool = 1;
+			input.cool = 1;//저소음 모드인 케이스를 고르다보니 가격이 말도 안되게 비싸진다.
 			input.ssd_vol = 0;
 			break;
 		default:
@@ -585,7 +585,7 @@ public class Main {
 					case_arr[i].x = database.nextDouble();	
 					case_arr[i].y = database.nextDouble();
 					case_arr[i].h = database.nextDouble();
-					database.nextDouble();
+					case_arr[i].cooler = database.nextDouble();
 					case_arr[i].price = database.nextDouble();	
 					case_arr[i].name = database.next();
 				}else//silence에 집중
@@ -622,14 +622,14 @@ public class Main {
 		{
 			double point=0.0;
 			if(input.cool == 1) {
-				point = case_arr[0].x*case_arr[0].y*case_arr[0].h/case_arr[0].price;
+				point = case_arr[0].x*case_arr[0].y*case_arr[0].h*case_arr[0].cooler/case_arr[0].price;
 				for(int tmp=1; tmp<case_arr_size;tmp++)//case 선택
 				{
-					if(point<case_arr[tmp].x*case_arr[tmp].y*case_arr[tmp].h/case_arr[tmp].price)
+					if(point<case_arr[tmp].x*case_arr[tmp].y*case_arr[tmp].h*case_arr[tmp].cooler/case_arr[tmp].price)
 					{
 						choose = tmp;
 						sum = case_arr[tmp].price;
-						point = case_arr[tmp].x*case_arr[tmp].y*case_arr[tmp].h/case_arr[tmp].price;
+						point = case_arr[tmp].x*case_arr[tmp].y*case_arr[tmp].h*case_arr[tmp].cooler/case_arr[tmp].price;
 					}
 				}
 				sum_result = sum_result +sum;
@@ -641,6 +641,7 @@ public class Main {
 				System.out.println("case 가로" +case_arr[choose].x);
 				System.out.println("case 세로" +case_arr[choose].y);
 				System.out.println("case 높이" +case_arr[choose].h);
+				System.out.println("case 쿨러 갯수" +case_arr[choose].cooler);
 				System.out.println("CASE================");
 				
 			}else
