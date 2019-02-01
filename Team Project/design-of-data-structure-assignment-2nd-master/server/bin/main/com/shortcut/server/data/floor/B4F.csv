@@ -1,0 +1,14 @@
+﻿,BElevator,dStair,seveneleven,canon,vietnam,cauburger,exit1,exit2,school food,post office,hair&u,touslesjours,morningglory
+BElevator,0,0,5,0,0,0,0,0,0,4,0,0,0
+dStair,0,0,0,0,0,0,0,0,0,0,4,3,5
+seveneleven,5,0,0,6,0,0,0,0,0,0,0,0,0
+canon,0,0,6,0,4,0,0,0,0,0,0,0,0
+vietnam,0,0,0,4,0,0,0,0,0,0,0,4,0
+cauburger,0,0,0,0,0,0,4,0,0,0,0,4,0
+exit1,0,0,0,0,0,4,0,6,0,0,0,0,4
+exit2,0,0,0,0,0,0,6,0,4,0,0,0,0
+school food,0,0,0,0,0,0,0,4,0,0,0,0,0
+post office,4,0,0,0,0,0,0,0,0,0,4,0,0
+hair&u,0,4,0,0,0,0,0,0,0,4,0,0,0
+touslesjours,0,3,0,0,4,4,0,0,0,0,0,0,0
+morningglory,0,5,0,0,0,0,4,0,0,0,0,0,0
