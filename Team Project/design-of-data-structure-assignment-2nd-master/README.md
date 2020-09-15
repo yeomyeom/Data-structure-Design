@@ -30,26 +30,26 @@
    2. 대부분 수업이 끝나면 엘리베이터로 이동
 
 ## 구현
-   # 자료구조
-   ![310_7F](./310_7F.png)
+   ### 자료구조
+   ![310_7F](./310_7F.png)   
    데이터 구조 : 방향성 그래프
    노드 : 엘리베이터, 계단, 강의실
    엣지 : 길
    
-   # 강의 인원 데이터
-   [수업 정보](https://github.com/yeomyeom/Data-structure-Design/blob/master/Team%20Project/design-of-data-structure-assignment-2nd-master/dataset/310-ap-peole-from-cau.xlsx)
+   ### 강의 인원 데이터
+   [수업 정보](https://github.com/yeomyeom/Data-structure-Design/blob/master/Team%20Project/design-of-data-structure-assignment-2nd-master/dataset/310-ap-peole-from-cau.xlsx)   
    시간, 요일별 각 강의실에 강의를 듣는 학생 수
 
-   # 유동 인구 데이터
-   [유동인구 정리한 파일](https://github.com/yeomyeom/Data-structure-Design/blob/master/Team%20Project/design-of-data-structure-assignment-2nd-master/dataset/18-11-16-elevator-people.xlsx)
+   ### 유동 인구 데이터
+   [유동인구 정리한 파일](https://github.com/yeomyeom/Data-structure-Design/blob/master/Team%20Project/design-of-data-structure-assignment-2nd-master/dataset/18-11-16-elevator-people.xlsx)   
    시간, 요일별 엘리베이터 앞 Smart-CAU(교내 wifi) AP(access point) 접속자 수와 AP 기기 위치를 기반으로 어느 위치에 몇명이 있는지 파악하여 혼잡도 계산
 
-   # 최단 경로 알고리즘
+   ### 최단 경로 알고리즘
    알고리즘 : 다익스트라 알고리즘
-
-
+   
 
 ## 기술 스택
    
    Java spring(백엔드)
+
    HTML, Javascript(프론트엔드)
